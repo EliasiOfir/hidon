@@ -74,3 +74,9 @@
 * [שאלות חוצות פרקים - יהושע](questions/cross_chapter_yehoshua.md)
 * [שאלות חוצות פרקים - שופטים](questions/cross_chapter_shoftim.md)
 * [שאלות חוצות ספרים](questions/cross_book_questions.md)
+
+## סוגי שאלות
+
+* [מי אמר למי?](questions/who_said_to_whom.md)
+* [זהה את הדמות](questions/identify_the_character.md)
+* [מה לא שייך + נכון/לא נכון](questions/odd_one_out_and_true_false.md)
