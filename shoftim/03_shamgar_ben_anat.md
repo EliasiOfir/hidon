@@ -110,12 +110,7 @@
 </details>
 
 <details>
-<summary><strong>14. מהו מלמד הבקר?</strong></summary>
-דרבן - כלי חקלאי ארוך ומחודד המשמש להנחיית שוורים בחריש
-</details>
-
-<details>
-<summary><strong>15. באיזה פרק ופסוק מופיע סיפור שמגר?</strong></summary>
+<summary><strong>14. באיזה פרק ופסוק מופיע סיפור שמגר?</strong></summary>
 פרק ג' פסוק ל"א
 </details>
 

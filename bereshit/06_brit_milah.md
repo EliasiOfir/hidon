@@ -123,8 +123,8 @@
 </details>
 
 <details>
-<summary><strong>16. מתי נימול אברהם - באיזה גיל?</strong></summary>
-בגיל 99
+<summary><strong>16. מה הצטווה אברהם לעשות לכל זכר בביתו?</strong></summary>
+למול אותם - כל זכר בן שמונת ימים
 </details>
 
 </div>

@@ -104,47 +104,42 @@
 </details>
 
 <details>
-<summary><strong>10. מהם ארבעת שלבי הגורל לגילוי החוטא?</strong></summary>
-שבט, משפחה, בית, גבר
+<summary><strong>10. מהם ארבעת שלבי הגורל לגילוי החוטא ומה היה סדר הלכידה?</strong></summary>
+שבט, משפחה, בית, גבר. בפועל: נלכד שבט יהודה, ממנו משפחת הזרחי, ממנה זבדי, ומביתו עכן
 </details>
 
 <details>
-<summary><strong>11. מה סדר הלכידה בגורלות?</strong></summary>
-נלכד שבט יהודה, ממנו משפחת הזרחי, ממנה זבדי, ומביתו עכן
-</details>
-
-<details>
-<summary><strong>12. מה אמר יהושע לעכן כשנלכד?</strong></summary>
+<summary><strong>11. מה אמר יהושע לעכן לפני שחשף את חטאו?</strong></summary>
 "בני שים נא כבוד לה' אלוהי ישראל ותן לו תודה והגד נא לי מה עשית אל תכחד ממני"
 </details>
 
 <details>
-<summary><strong>13. מה בדיוק גנב עכן מהשלל?</strong></summary>
+<summary><strong>12. מה בדיוק גנב עכן מהשלל?</strong></summary>
 אדרת שנער אחת טובה, מאתיים שקלים כסף, ולשון זהב אחד חמישים שקלים משקלו
 </details>
 
 <details>
-<summary><strong>14. היכן הטמין עכן את השלל?</strong></summary>
+<summary><strong>13. היכן הטמין עכן את השלל?</strong></summary>
 באדמה בתוך אוהלו, והכסף תחת האדרת
 </details>
 
 <details>
-<summary><strong>15. מה העונש של עכן?</strong></summary>
+<summary><strong>14. מה העונש של עכן?</strong></summary>
 נרגם באבנים ונשרף באש, יחד עם בניו, בנותיו, שורו, חמורו, צאנו, אוהלו וכל אשר לו
 </details>
 
 <details>
-<summary><strong>16. היכן נענש עכן ומדוע נקרא המקום כך?</strong></summary>
+<summary><strong>15. היכן נענש עכן ומדוע נקרא המקום כך?</strong></summary>
 בעמק עכור - על שם "מה עכרתנו" שאמר יהושע
 </details>
 
 <details>
-<summary><strong>17. מה הוקם על עכן לאחר מותו?</strong></summary>
+<summary><strong>16. מה הוקם על עכן לאחר מותו?</strong></summary>
 גל אבנים גדול
 </details>
 
 <details>
-<summary><strong>18. מה קרה לאחר עונש עכן?</strong></summary>
+<summary><strong>17. מה קרה לאחר עונש עכן?</strong></summary>
 ה' שב מחרון אפו
 </details>
 

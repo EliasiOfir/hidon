@@ -106,17 +106,12 @@
 </details>
 
 <details>
-<summary><strong>13. מדוע נסו יהושע והעם בתחילת הקרב?</strong></summary>
-זה היה חלק מהתוכנית - לפתות את אנשי העי לצאת מהעיר ולרדוף, כדי שהמארב ייכנס לעיר הריקה
-</details>
-
-<details>
-<summary><strong>14. מה עשו למלך העי בסוף היום?</strong></summary>
+<summary><strong>13. מה עשו למלך העי בסוף היום?</strong></summary>
 הורידו את גופתו מהעץ עד הערב (כפי שמצווה התורה)
 </details>
 
 <details>
-<summary><strong>15. מאיזה פסוק: "נטה בכידון אשר בידך אל העי"?</strong></summary>
+<summary><strong>14. מאיזה פסוק: "נטה בכידון אשר בידך אל העי"?</strong></summary>
 פרק ח פסוק יח
 </details>
 

@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary><strong>5. מה אמר יתרו כשש שמע על מעשי ה'?</strong></summary>
+<summary><strong>5. מה אמר יתרו כששמע על מעשי ה'?</strong></summary>
 "עתה ידעתי כי גדול ה' מכל האלוהים"
 </details>
 
