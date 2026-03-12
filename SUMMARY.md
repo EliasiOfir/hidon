@@ -65,3 +65,12 @@
 * [דבורה וברק](shoftim/04_devorah_and_barak.md)
 * [גדעון](shoftim/05_gideon.md)
 * [אבימלך](shoftim/06_avimelech.md)
+
+## שאלות חוצות פרקים
+
+* [שאלות חוצות פרקים - בראשית](questions/cross_chapter_bereshit.md)
+* [שאלות חוצות פרקים - שמות](questions/cross_chapter_shemot.md)
+* [שאלות חוצות פרקים - במדבר](questions/cross_chapter_bamidbar.md)
+* [שאלות חוצות פרקים - יהושע](questions/cross_chapter_yehoshua.md)
+* [שאלות חוצות פרקים - שופטים](questions/cross_chapter_shoftim.md)
+* [שאלות חוצות ספרים](questions/cross_book_questions.md)
