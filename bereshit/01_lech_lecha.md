@@ -50,4 +50,96 @@
 4. **פסוק י"ב:י** - "וַיְהִי רָעָב בָּאָרֶץ וַיֵּרֶד אַבְרָם מִצְרַיְמָה לָגוּר שָׁם כִּי כָבֵד הָרָעָב בָּאָרֶץ" - נקודת מפנה בסיפור, הירידה למצרים.
 5. **פסוק י"ב:ג** - "וַאֲבָרְכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה" - הבטחת הברכה האוניברסלית.
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. בן כמה היה אברם כשיצא מחרן?</strong></summary>
+75 (בן חמש שנים ושבעים שנה)
+</details>
+
+<details>
+<summary><strong>2. מי הלך עם אברם מחרן?</strong></summary>
+שרי אשתו, לוט בן אחיו, רכושם והנפש שעשו בחרן
+</details>
+
+<details>
+<summary><strong>3. מהן שלוש ההבטחות של ה' לאברם?</strong></summary>
+גוי גדול, ברכה, שם גדול
+</details>
+
+<details>
+<summary><strong>4. מהו המקום הראשון שאברם הגיע אליו בכנען?</strong></summary>
+שכם, עד אלון מורה
+</details>
+
+<details>
+<summary><strong>5. מה עשה אברם בשכם?</strong></summary>
+בנה מזבח לה' הנראה אליו
+</details>
+
+<details>
+<summary><strong>6. מה הבטיח ה' לאברם בשכם?</strong></summary>
+"לזרעך אתן את הארץ הזאת"
+</details>
+
+<details>
+<summary><strong>7. לאן נעתק אברם משכם?</strong></summary>
+להר שבין בית אל (ממערב) לעי (ממזרח)
+</details>
+
+<details>
+<summary><strong>8. מה עשה אברם בין בית אל לעי?</strong></summary>
+נטה אוהלו, בנה מזבח וקרא בשם ה'
+</details>
+
+<details>
+<summary><strong>9. מדוע ירד אברם למצרים?</strong></summary>
+בגלל רעב כבד בארץ
+</details>
+
+<details>
+<summary><strong>10. מה ביקש אברם משרי לפני הכניסה למצרים?</strong></summary>
+לומר שהיא אחותו, כדי שלא יהרגו אותו
+</details>
+
+<details>
+<summary><strong>11. מה קרה לשרי במצרים?</strong></summary>
+שרי פרעה ראו את יופייה, הללו אותה, והיא נלקחה לבית פרעה
+</details>
+
+<details>
+<summary><strong>12. מה קיבל אברם מפרעה בעבור שרי?</strong></summary>
+צאן, בקר, חמורים, עבדים, שפחות, אתונות וגמלים (7 מתנות)
+</details>
+
+<details>
+<summary><strong>13. כיצד נענש פרעה?</strong></summary>
+ה' נגע בפרעה ובביתו בנגעים גדולים
+</details>
+
+<details>
+<summary><strong>14. מה עשה פרעה כשגילה ששרי היא אשת אברם?</strong></summary>
+הוכיח את אברם, החזיר את שרי, ושילח אותם עם כל רכושם
+</details>
+
+<details>
+<summary><strong>15. כמה מזבחות בנה אברם בכנען בפרק זה?</strong></summary>
+שניים - אחד בשכם ואחד בין בית אל לעי
+</details>
+
+<details>
+<summary><strong>16. מהי ההבטחה האוניברסלית שה' הבטיח לאברם?</strong></summary>
+"ונברכו בך כל משפחות האדמה"
+</details>
+
+<details>
+<summary><strong>17. איזה ביטוי בפסוק א' מדגיש את הניתוק מהעבר?</strong></summary>
+"לך לך מארצך וממולדתך ומבית אביך" - שלוש דרגות ניתוק
+</details>
+
+<details>
+<summary><strong>18. מי היה בארץ כנען כשאברם הגיע?</strong></summary>
+"והכנעני אז בארץ"
+</details>
+
 </div>
