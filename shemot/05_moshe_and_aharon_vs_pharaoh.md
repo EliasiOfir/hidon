@@ -41,4 +41,81 @@
 - **ה':7** - "לֹא תֹאסִפוּן לָתֵת תֶּבֶן לָעָם לִלְבֹּן הַלְּבֵנִים כִּתְמוֹל שִׁלְשֹׁם הֵם יֵלְכוּ וְקֹשְׁשׁוּ לָהֶם תֶּבֶן"
 - **ה':22** - "אֲדֹנָי לָמָה הֲרֵעֹתָה לָעָם הַזֶּה לָמָּה זֶּה שְׁלַחְתָּנִי"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מה אמרו משה ואהרן לפרעה כשבאו אליו?</strong></summary>
+"כה אמר ה' אלוהי ישראל שלח את עמי ויחוגו לי במדבר"
+</details>
+
+<details>
+<summary><strong>2. מה ענה פרעה לדרישת משה ואהרן?</strong></summary>
+"מי ה' אשר אשמע בקולו... לא ידעתי את ה' וגם את ישראל לא אשלח"
+</details>
+
+<details>
+<summary><strong>3. במה האשים פרעה את משה ואהרן?</strong></summary>
+שהם מפריעים לעם מעבודתם
+</details>
+
+<details>
+<summary><strong>4. מה ציווה פרעה את הנוגשים והשוטרים לעשות?</strong></summary>
+שלא לתת עוד תבן לעם ללבנים - העם יאסוף תבן בעצמו, אבל מכסת הלבנים לא תפחת
+</details>
+
+<details>
+<summary><strong>5. מה היה התבן משמש?</strong></summary>
+חומר גלם ללבנים
+</details>
+
+<details>
+<summary><strong>6. מה אסף העם במקום תבן?</strong></summary>
+קש
+</details>
+
+<details>
+<summary><strong>7. מי הם הנוגשים ומי הם השוטרים?</strong></summary>
+הנוגשים הם ממונים מצריים על העבודה, והשוטרים הם ממונים ישראליים
+</details>
+
+<details>
+<summary><strong>8. מדוע הוכו השוטרים?</strong></summary>
+כי מכסת הלבנים לא הושלמה
+</details>
+
+<details>
+<summary><strong>9. מה אמרו השוטרים למשה ואהרן כשפגשו אותם?</strong></summary>
+"ירא ה' עליכם וישפוט אשר הבאשתם את ריחנו"
+</details>
+
+<details>
+<summary><strong>10. מה שאל משה את ה' בסוף הפרק?</strong></summary>
+"למה הרעותה לעם הזה, למה זה שלחתני"
+</details>
+
+<details>
+<summary><strong>11. במה האשים פרעה את העם כשביקשו להקל מהעבודה?</strong></summary>
+שהם נרפים (עצלנים)
+</details>
+
+<details>
+<summary><strong>12. האם מכסת הלבנים השתנתה אחרי שפרעה הפסיק לספק תבן?</strong></summary>
+לא, מכסת הלבנים לא פחתה
+</details>
+
+<details>
+<summary><strong>13. לאן הלכו השוטרים להתלונן?</strong></summary>
+אל פרעה
+</details>
+
+<details>
+<summary><strong>14. האם התלונת השוטרים לפרעה הועילה?</strong></summary>
+לא, ללא הועיל
+</details>
+
+<details>
+<summary><strong>15. מהו הפסוק "מִי ה' אֲשֶׁר אֶשְׁמַע בְּקֹלוֹ"?</strong></summary>
+שמות ה', ב'
+</details>
+
 </div>

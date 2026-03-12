@@ -51,4 +51,96 @@
 > **שמות א', ט"ו** - "וַיֹּאמֶר מֶלֶךְ מִצְרַיִם לַמְיַלְּדֹת הָעִבְרִיֹּת אֲשֶׁר שֵׁם הָאַחַת שִׁפְרָה וְשֵׁם הַשֵּׁנִית פּוּעָה"
 > **שמות א', כ"ב** - "וַיְצַו פַּרְעֹה לְכׇל עַמּוֹ לֵאמֹר כׇּל הַבֵּן הַיִּלּוֹד הַיְאֹרָה תַּשְׁלִיכֻהוּ וְכׇל הַבַּת תְּחַיּוּן"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. כמה נפשות ירדו למצרים מזרע יעקב?</strong></summary>
+שבעים נפש
+</details>
+
+<details>
+<summary><strong>2. מי היה כבר במצרים כשבני ישראל ירדו?</strong></summary>
+יוסף
+</details>
+
+<details>
+<summary><strong>3. מדוע קם המלך החדש נגד בני ישראל?</strong></summary>
+כי חשש שבני ישראל יצטרפו לאויבי מצרים בעת מלחמה ויעלו מן הארץ
+</details>
+
+<details>
+<summary><strong>4. מה מינה פרעה על בני ישראל כדי לענותם?</strong></summary>
+שרי מסים
+</details>
+
+<details>
+<summary><strong>5. מהן שתי ערי המסכנות שבנו בני ישראל לפרעה?</strong></summary>
+פיתום ורעמסס
+</details>
+
+<details>
+<summary><strong>6. מה קרה ככל שעינו את בני ישראל יותר?</strong></summary>
+כן רבו וכן פרצו
+</details>
+
+<details>
+<summary><strong>7. מהי עבודת הפרך שעבדו בני ישראל?</strong></summary>
+בחומר ובלבנים ובכל עבודה בשדה
+</details>
+
+<details>
+<summary><strong>8. מה שמות שתי המיילדות העבריות?</strong></summary>
+שפרה ופועה
+</details>
+
+<details>
+<summary><strong>9. מה ציווה פרעה את המיילדות לעשות?</strong></summary>
+להמית את הבנים הנולדים ולהחיות את הבנות
+</details>
+
+<details>
+<summary><strong>10. מדוע לא ציתו המיילדות לפרעה?</strong></summary>
+כי יראו את האלוהים
+</details>
+
+<details>
+<summary><strong>11. מה טענו המיילדות כשנשאלו מדוע לא המיתו את הילדים?</strong></summary>
+שהנשים העבריות חיות הן ויולדות לפני בוא המיילדת
+</details>
+
+<details>
+<summary><strong>12. מה היה שכרן של המיילדות מאלוהים?</strong></summary>
+אלוהים עשה להן בתים
+</details>
+
+<details>
+<summary><strong>13. מה הגזרה האחרונה שגזר פרעה על כל עמו?</strong></summary>
+כל הבן הילוד היאורה תשליכוהו וכל הבת תחיון
+</details>
+
+<details>
+<summary><strong>14. מהן ארבע לשונות הריבוי של בני ישראל בפסוק ז'?</strong></summary>
+פרו, וישרצו, וירבו, ויעצמו
+</details>
+
+<details>
+<summary><strong>15. מהו הפסוק "וַיָּקׇם מֶלֶךְ חָדָשׁ עַל מִצְרָיִם אֲשֶׁר לֹא יָדַע אֶת יוֹסֵף"?</strong></summary>
+שמות א', ח'
+</details>
+
+<details>
+<summary><strong>16. מה פירוש המילה "בפרך"?</strong></summary>
+עבודה קשה ומפרכת
+</details>
+
+<details>
+<summary><strong>17. כמה פעמים מופיעה המילה "בפרך" בפרק א'?</strong></summary>
+פעמיים
+</details>
+
+<details>
+<summary><strong>18. לאן ציווה פרעה להשליך את הבנים הנולדים?</strong></summary>
+ליאור (הנילוס)
+</details>
+
 </div>

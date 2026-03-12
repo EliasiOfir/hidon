@@ -47,4 +47,86 @@
 - **י"ח:25** - "הֲשֹׁפֵט כָּל הָאָרֶץ לֹא יַעֲשֶׂה מִשְׁפָּט"
 - **י"ח:32** - "אַל נָא יִחַר לַאדֹנָי... אוּלַי יִמָּצְאוּן שָׁם עֲשָׂרָה... לֹא אַשְׁחִית בַּעֲבוּר הָעֲשָׂרָה"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. היכן נראה ה' אל אברהם בתחילת הפרק?</strong></summary>
+באלוני ממרא
+</details>
+
+<details>
+<summary><strong>2. מה עשה אברהם כשראה את שלושת האנשים?</strong></summary>
+רץ לקראתם, השתחווה ואמר "אל נא תעבור מעל עבדך"
+</details>
+
+<details>
+<summary><strong>3. אילו מאכלים הגיש אברהם לאורחים?</strong></summary>
+מים לרחיצת רגליים, עוגות מסולת, חמאה וחלב, ובן בקר רך וטוב
+</details>
+
+<details>
+<summary><strong>4. כמה אנשים/מלאכים ביקרו את אברהם?</strong></summary>
+שלושה
+</details>
+
+<details>
+<summary><strong>5. מה שאלו האורחים את אברהם?</strong></summary>
+"איה שרה אשתך" - והוא ענה "הנה באוהל"
+</details>
+
+<details>
+<summary><strong>6. מה היתה הבשורה שנמסרה לאברהם?</strong></summary>
+"שוב אשוב אליך כעת חיה והנה בן לשרה אשתך"
+</details>
+
+<details>
+<summary><strong>7. היכן היתה שרה כששמעה את הבשורה?</strong></summary>
+בפתח האוהל
+</details>
+
+<details>
+<summary><strong>8. מדוע צחקה שרה?</strong></summary>
+כי אמרה "אחרי בלותי היתה לי עדנה ואדוני זקן"
+</details>
+
+<details>
+<summary><strong>9. מה אמר ה' כשנודע לו שצחקה שרה?</strong></summary>
+"למה זה צחקה שרה... היפלא מה' דבר"
+</details>
+
+<details>
+<summary><strong>10. מה עשתה שרה כשה' שאל על הצחוק?</strong></summary>
+הכחישה מיראה ואמרה "לא צחקתי", וה' אמר "לא כי צחקת"
+</details>
+
+<details>
+<summary><strong>11. מדוע החליט ה' לגלות לאברהם את הכוונה לגבי סדום?</strong></summary>
+"המכסה אני מאברהם אשר אני עושה... כי ידעתיו למען אשר יצווה את בניו"
+</details>
+
+<details>
+<summary><strong>12. מה אמר אברהם כשפתח את הוויכוח עם ה' על סדום?</strong></summary>
+"האף תספה צדיק עם רשע?"
+</details>
+
+<details>
+<summary><strong>13. ממה התחיל אברהם את המשא ומתן על מספר הצדיקים ועד כמה הגיע?</strong></summary>
+התחיל מ-50 צדיקים, הוריד ל-45, 40, 30, 20, ולבסוף 10
+</details>
+
+<details>
+<summary><strong>14. מהו הטיעון המפורסם שאמר אברהם לה' על משפט סדום?</strong></summary>
+"השופט כל הארץ לא יעשה משפט?"
+</details>
+
+<details>
+<summary><strong>15. מה הסכים ה' בנוגע לעשרה צדיקים?</strong></summary>
+"לא אשחית בעבור העשרה"
+</details>
+
+<details>
+<summary><strong>16. כמה מהאנשים הלכו לכיוון סדום?</strong></summary>
+שני האנשים הלכו לסדום, ואברהם עמד לפני ה'
+</details>
+
 </div>

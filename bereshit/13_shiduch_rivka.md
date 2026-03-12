@@ -54,4 +54,96 @@
 - **כ"ד:63** - "וַיֵּצֵא יִצְחָק לָשׂוּחַ בַּשָּׂדֶה לִפְנוֹת עָרֶב"
 - **כ"ד:67** - "וַיֶּאֱהָבֶהָ וַיִּנָּחֵם יִצְחָק אַחֲרֵי אִמּוֹ"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מה השביע אברהם את עבדו הזקן?</strong></summary>
+שלא ייקח אישה ליצחק מבנות הכנעני, אלא ילך אל ארצו ומולדתו
+</details>
+
+<details>
+<summary><strong>2. מה שאל העבד את אברהם לפני שיצא לדרך?</strong></summary>
+מה אם האישה לא תרצה לבוא אחריו לארץ כנען
+</details>
+
+<details>
+<summary><strong>3. מה ענה אברהם לעבד על חששו?</strong></summary>
+"ה' אלוהי השמים הוא ישלח מלאכו לפניך", ואם לא תרצה - "ונקית משבועתי זאת, רק את בני לא תשב שמה"
+</details>
+
+<details>
+<summary><strong>4. כמה גמלים לקח העבד למסע?</strong></summary>
+עשרה גמלים
+</details>
+
+<details>
+<summary><strong>5. לאן נסע העבד?</strong></summary>
+לארם נהריים, אל עיר נחור
+</details>
+
+<details>
+<summary><strong>6. מה היה המבחן שהעבד קבע לזהות את הנערה המתאימה?</strong></summary>
+הנערה שיאמר לה "הטי נא כדך ואשתה" ותאמר "שתה וגם גמליך אשקה" - היא המיועדת ליצחק
+</details>
+
+<details>
+<summary><strong>7. בת מי היתה רבקה?</strong></summary>
+בת בתואל בן מלכה אשר ילדה לנחור
+</details>
+
+<details>
+<summary><strong>8. כיצד מתוארת רבקה?</strong></summary>
+"טובת מראה מאוד, בתולה ואיש לא ידעה"
+</details>
+
+<details>
+<summary><strong>9. מה נתן העבד לרבקה לאחר שעברה את המבחן?</strong></summary>
+נזם זהב (בקע משקלו) ושני צמידים (עשרה זהב משקלם)
+</details>
+
+<details>
+<summary><strong>10. מי רץ לקראת העבד כשראה את התכשיטים?</strong></summary>
+לבן אחי רבקה
+</details>
+
+<details>
+<summary><strong>11. מה ענו בתואל ולבן לאחר ששמעו את סיפור העבד?</strong></summary>
+"מה' יצא הדבר, לא נוכל דבר אליך רע או טוב"
+</details>
+
+<details>
+<summary><strong>12. מה ענתה רבקה כששאלו אותה "התלכי עם האיש הזה"?</strong></summary>
+"אלך"
+</details>
+
+<details>
+<summary><strong>13. מה היתה הברכה שבירכו את רבקה?</strong></summary>
+"אחותנו את היי לאלפי רבבה ויירש זרעך את שער שונאיו"
+</details>
+
+<details>
+<summary><strong>14. מה עשה יצחק כשרבקה הגיעה?</strong></summary>
+יצא "לשוח בשדה" לפנות ערב, ראה גמלים באים
+</details>
+
+<details>
+<summary><strong>15. מה עשתה רבקה כשראתה את יצחק?</strong></summary>
+נפלה מעל הגמל והתכסתה בצעיף
+</details>
+
+<details>
+<summary><strong>16. לאן הביא יצחק את רבקה?</strong></summary>
+אל אוהל שרה אמו
+</details>
+
+<details>
+<summary><strong>17. מה נאמר על יחסי יצחק ורבקה?</strong></summary>
+"ויאהבה, וינחם יצחק אחרי אמו"
+</details>
+
+<details>
+<summary><strong>18. היכן ישב יצחק באותו זמן?</strong></summary>
+בנגב, ליד באר לחי ראי
+</details>
+
 </div>

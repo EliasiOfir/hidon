@@ -55,4 +55,96 @@
 4. **פסוק י"ג:טז** - "וְשַׂמְתִּי אֶת זַרְעֲךָ כַּעֲפַר הָאָרֶץ אֲשֶׁר אִם יוּכַל אִישׁ לִמְנוֹת אֶת עֲפַר הָאָרֶץ גַּם זַרְעֲךָ יִמָּנֶה" - הבטחת ריבוי הזרע.
 5. **פסוק י"ג:יז** - "קוּם הִתְהַלֵּךְ בָּאָרֶץ לְאָרְכָּהּ וּלְרָחְבָּהּ כִּי לְךָ אֶתְּנֶנָּה" - ציווי ה' לאברם לסקור את הארץ.
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מאיפה עלו אברם ולוט בתחילת הפרק?</strong></summary>
+ממצרים
+</details>
+
+<details>
+<summary><strong>2. במה היה אברם כבד מאוד?</strong></summary>
+במקנה, בכסף ובזהב
+</details>
+
+<details>
+<summary><strong>3. לאן חזר אברם ממצרים?</strong></summary>
+לנגב, ומשם למסעותיו עד בית אל, למקום שבנה מזבח בראשונה
+</details>
+
+<details>
+<summary><strong>4. בין אילו שני מקומות היה אוהלו של אברם בתחילה?</strong></summary>
+בין בית אל ובין העי
+</details>
+
+<details>
+<summary><strong>5. מה היה ללוט מלבד צאן ובקר?</strong></summary>
+אוהלים
+</details>
+
+<details>
+<summary><strong>6. מדוע לא יכלו אברם ולוט לשבת יחדיו?</strong></summary>
+כי רכושם היה רב והארץ לא נשאה אותם לשבת יחד
+</details>
+
+<details>
+<summary><strong>7. בין מי למי היה הריב?</strong></summary>
+בין רועי מקנה אברם לבין רועי מקנה לוט
+</details>
+
+<details>
+<summary><strong>8. אילו שני עמים ישבו אז בארץ?</strong></summary>
+הכנעני והפריזי
+</details>
+
+<details>
+<summary><strong>9. מה אמר אברם ללוט כדי למנוע את המריבה?</strong></summary>
+"אל נא תהי מריבה ביני ובינך ובין רועי ובין רועיך כי אנשים אחים אנחנו"
+</details>
+
+<details>
+<summary><strong>10. מה הציע אברם ללוט?</strong></summary>
+להיפרד - אם לוט ילך שמאלה אברם ילך ימינה, ולהפך
+</details>
+
+<details>
+<summary><strong>11. איזה אזור בחר לוט ומדוע?</strong></summary>
+את כיכר הירדן, כי כולה היתה משקה, כגן ה' כארץ מצרים
+</details>
+
+<details>
+<summary><strong>12. כיצד מתוארים אנשי סדום בפסוק י"ג?</strong></summary>
+"רעים וחטאים לה' מאוד"
+</details>
+
+<details>
+<summary><strong>13. לאילו ארבעה כיוונים הבטיח ה' לאברם את הארץ?</strong></summary>
+צפונה, נגבה, קדמה וימה
+</details>
+
+<details>
+<summary><strong>14. למה דימה ה' את זרע אברם?</strong></summary>
+לעפר הארץ שלא ניתן למנותו
+</details>
+
+<details>
+<summary><strong>15. מה ציווה ה' את אברם לעשות בארץ?</strong></summary>
+"קום התהלך בארץ לארכה ולרחבה"
+</details>
+
+<details>
+<summary><strong>16. איפה התיישב אברם לאחר הפרידה מלוט?</strong></summary>
+באלוני ממרא אשר בחברון
+</details>
+
+<details>
+<summary><strong>17. מה עשה אברם באלוני ממרא?</strong></summary>
+בנה מזבח לה'
+</details>
+
+<details>
+<summary><strong>18. מהו הביטוי שבו תיאר הכתוב את כיכר הירדן לפני חורבן סדום?</strong></summary>
+"כגן ה' כארץ מצרים בואכה צוער"
+</details>
+
 </div>

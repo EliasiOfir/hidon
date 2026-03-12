@@ -49,4 +49,86 @@
 - **י"ח:21** - "וְאַתָּה תֶחֱזֶה מִכָּל הָעָם אַנְשֵׁי חַיִל יִרְאֵי אֱלֹהִים אַנְשֵׁי אֱמֶת שֹׂנְאֵי בָצַע"
 - **י"ח:22** - "וְשָׂמְתָּ עֲלֵהֶם שָׂרֵי אֲלָפִים שָׂרֵי מֵאוֹת שָׂרֵי חֲמִשִּׁים וְשָׂרֵי עֲשָׂרֹת"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מי היה יתרו ומה הייתה מקצועו?</strong></summary>
+כהן מדיין, חותנו של משה
+</details>
+
+<details>
+<summary><strong>2. את מי הביא יתרו עמו אל משה?</strong></summary>
+את ציפורה אשת משה ואת שני בניה גרשום ואליעזר
+</details>
+
+<details>
+<summary><strong>3. מה שם בנו הראשון של משה ומה משמעות שמו?</strong></summary>
+גרשום - "כי גר הייתי בארץ נכריה"
+</details>
+
+<details>
+<summary><strong>4. מה שם בנו השני של משה ומה משמעות שמו?</strong></summary>
+אליעזר - "כי אלוהי אבי בעזרי"
+</details>
+
+<details>
+<summary><strong>5. מה אמר יתרו כשש שמע על מעשי ה'?</strong></summary>
+"עתה ידעתי כי גדול ה' מכל האלוהים"
+</details>
+
+<details>
+<summary><strong>6. מה עשה יתרו אחרי ששמע את סיפור משה?</strong></summary>
+הקריב עולה וזבחים, ואכל לחם עם אהרן וזקני ישראל
+</details>
+
+<details>
+<summary><strong>7. מה ראה יתרו שמשה עושה למחרת?</strong></summary>
+יושב לשפוט את העם מבוקר עד ערב
+</details>
+
+<details>
+<summary><strong>8. מה אמר יתרו למשה על המצב?</strong></summary>
+"לא טוב הדבר אשר אתה עושה, נבול תיבול גם אתה גם העם הזה"
+</details>
+
+<details>
+<summary><strong>9. מהם ארבעת הדרגות שיתרו הציע למנות?</strong></summary>
+שרי אלפים, שרי מאות, שרי חמישים ושרי עשרות
+</details>
+
+<details>
+<summary><strong>10. מהם ארבעת התנאים שדרש יתרו מהשופטים?</strong></summary>
+אנשי חיל, יראי אלוהים, אנשי אמת, שונאי בצע
+</details>
+
+<details>
+<summary><strong>11. איזה דבר יובא למשה ואיזה ישפטו השופטים?</strong></summary>
+הדבר הגדול יביאו למשה, והדבר הקטן ישפטו הם
+</details>
+
+<details>
+<summary><strong>12. האם משה קיבל את עצת יתרו?</strong></summary>
+כן, משה שמע בקול חותנו ויישם את העצה
+</details>
+
+<details>
+<summary><strong>13. היכן פגש יתרו את משה?</strong></summary>
+במדבר, אל הר האלוהים
+</details>
+
+<details>
+<summary><strong>14. מה פירוש הביטוי "נבול תיבול"?</strong></summary>
+אזהרת יתרו שמשה יישחק / יתעייף לגמרי
+</details>
+
+<details>
+<summary><strong>15. כמה בנים היו למשה?</strong></summary>
+שניים - גרשום ואליעזר
+</details>
+
+<details>
+<summary><strong>16. מי אכלו יחד עם יתרו?</strong></summary>
+אהרן וזקני ישראל
+</details>
+
 </div>

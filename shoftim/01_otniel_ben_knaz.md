@@ -53,4 +53,96 @@
 **פסוק י"א:**
 > וַתִּשְׁקֹט הָאָרֶץ אַרְבָּעִים שָׁנָה וַיָּמָת עָתְנִיאֵל בֶּן קְנַז׃
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מי היה השופט הראשון בספר שופטים?</strong></summary>
+עתניאל בן קנז
+</details>
+
+<details>
+<summary><strong>2. מה עשו בני ישראל שגרם לה' להענישם?</strong></summary>
+עשו את הרע בעיני ה', שכחו את אלוהיהם ועבדו את הבעלים ואת האשרות
+</details>
+
+<details>
+<summary><strong>3. מי היה האויב ששעבד את ישראל בתקופת עתניאל?</strong></summary>
+כושן רשעתיים מלך ארם נהריים
+</details>
+
+<details>
+<summary><strong>4. כמה שנים עבדו בני ישראל את כושן רשעתיים?</strong></summary>
+שמונה שנים
+</details>
+
+<details>
+<summary><strong>5. מה היחס המשפחתי בין עתניאל לכלב?</strong></summary>
+עתניאל היה אחי כלב הקטן ממנו
+</details>
+
+<details>
+<summary><strong>6. מה קרה לאחר שבני ישראל זעקו אל ה'?</strong></summary>
+ה' הקים להם מושיע - את עתניאל בן קנז
+</details>
+
+<details>
+<summary><strong>7. מהו "רוח ה'" בהקשר של עתניאל?</strong></summary>
+כוח אלוהי שחל על השופט ומעניק לו יכולת מיוחדת. רוח ה' היתה על עתניאל כשיצא למלחמה
+</details>
+
+<details>
+<summary><strong>8. כמה שנים שקטה הארץ לאחר ניצחון עתניאל?</strong></summary>
+ארבעים שנה
+</details>
+
+<details>
+<summary><strong>9. מהו המבנה המחזורי של ספר שופטים כפי שמוצג בסיפור עתניאל?</strong></summary>
+חטא, עונש, זעקה, הושעה ושקט
+</details>
+
+<details>
+<summary><strong>10. מהיכן היה כושן רשעתיים?</strong></summary>
+מארם נהריים - אזור בין שני הנהרות (פרת וחידקל) במסופוטמיה
+</details>
+
+<details>
+<summary><strong>11. מאיזה פסוק: "וַיִּמְכְּרֵם בְּיַד כּוּשַׁן רִשְׁעָתַיִם מֶלֶךְ אֲרַם נַהֲרָיִם"?</strong></summary>
+פסוק ח'
+</details>
+
+<details>
+<summary><strong>12. מהי המשמעות של הביטוי "וַיִּמְכְּרֵם"?</strong></summary>
+ביטוי להסגרת ישראל ביד האויב כעונש
+</details>
+
+<details>
+<summary><strong>13. מהי הנוסחה הקבועה הפותחת כל מחזור בספר שופטים?</strong></summary>
+"וַיַּעֲשׂוּ בְנֵי יִשְׂרָאֵל אֶת הָרַע בְּעֵינֵי ה'"
+</details>
+
+<details>
+<summary><strong>14. מה הם "הבעלים והאשרות"?</strong></summary>
+עבודה זרה כנענית - הבעלים הם אלי הפריון, והאשרות הם עצי או עמודי פולחן
+</details>
+
+<details>
+<summary><strong>15. מאיזה פסוק: "וַתִּשְׁקֹט הָאָרֶץ אַרְבָּעִים שָׁנָה וַיָּמָת עָתְנִיאֵל בֶּן קְנַז"?</strong></summary>
+פסוק י"א
+</details>
+
+<details>
+<summary><strong>16. באיזה פרק ופסוקים מופיע סיפור עתניאל בן קנז?</strong></summary>
+פרק ג' פסוקים ז'-י"א
+</details>
+
+<details>
+<summary><strong>17. מהו התואר שניתן לעתניאל בפסוק ט'?</strong></summary>
+מושיע
+</details>
+
+<details>
+<summary><strong>18. מהי המשמעות של המספר 40 בתנ"ך?</strong></summary>
+מספר המסמל תקופה שלמה (40 שנה במדבר, 40 יום על הר סיני וכו')
+</details>
+
 </div>

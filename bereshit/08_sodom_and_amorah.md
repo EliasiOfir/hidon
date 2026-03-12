@@ -49,4 +49,86 @@
 - **י"ט:26** - "וַתַּבֵּט אִשְׁתּוֹ מֵאַחֲרָיו וַתְּהִי נְצִיב מֶלַח"
 - **י"ט:28** - "וַיַּשְׁקֵף עַל פְּנֵי סְדֹם וַעֲמֹרָה... וְהִנֵּה עָלָה קִיטֹר הָאָרֶץ כְּקִיטֹר הַכִּבְשָׁן"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. כמה מלאכים הגיעו לסדום?</strong></summary>
+שני מלאכים
+</details>
+
+<details>
+<summary><strong>2. היכן ישב לוט כשהמלאכים הגיעו לסדום?</strong></summary>
+בשער סדום
+</details>
+
+<details>
+<summary><strong>3. מה הכין לוט למלאכים?</strong></summary>
+משתה ואפה מצות
+</details>
+
+<details>
+<summary><strong>4. מה דרשו אנשי סדום מלוט?</strong></summary>
+"הוציאם אלינו" - רצו לפגוע באורחים
+</details>
+
+<details>
+<summary><strong>5. במה הוכו אנשי סדום על ידי המלאכים?</strong></summary>
+בסנוורים (עיוורון)
+</details>
+
+<details>
+<summary><strong>6. כיצד הגיבו חתני לוט לאזהרה לברוח?</strong></summary>
+חשבו שלוט מצחק ולא האמינו לו
+</details>
+
+<details>
+<summary><strong>7. מה ציוו המלאכים את לוט לקחת איתו?</strong></summary>
+את אשתו ואת שתי בנותיו הנמצאות
+</details>
+
+<details>
+<summary><strong>8. מדוע אחזו המלאכים ביד לוט והוציאוהו?</strong></summary>
+כי לוט התמהמה, "בחמלת ה' עליו"
+</details>
+
+<details>
+<summary><strong>9. מה הזהירו המלאכים את לוט שלא לעשות?</strong></summary>
+"אל תביט אחריך ואל תעמוד בכל הככר, ההרה הימלט פן תיספה"
+</details>
+
+<details>
+<summary><strong>10. לאן ביקש לוט לברוח במקום ההרה?</strong></summary>
+לצוער - עיר קטנה
+</details>
+
+<details>
+<summary><strong>11. במה הושמדו סדום ועמורה?</strong></summary>
+ה' המטיר גפרית ואש מן השמים
+</details>
+
+<details>
+<summary><strong>12. מה קרה לאשת לוט ומדוע?</strong></summary>
+הביטה מאחוריו (לאחור) ונהפכה לנציב מלח
+</details>
+
+<details>
+<summary><strong>13. מה ראה אברהם כשהשקיף למחרת על פני סדום ועמורה?</strong></summary>
+"עלה קיטור הארץ כקיטור הכבשן"
+</details>
+
+<details>
+<summary><strong>14. כמה בנות של לוט ניצלו?</strong></summary>
+שתי בנות
+</details>
+
+<details>
+<summary><strong>15. מה הפך חורבן סדום מלבד העיר עצמה?</strong></summary>
+את כל הערים, את כל הככר, את כל יושבי הערים ואת צמח האדמה
+</details>
+
+<details>
+<summary><strong>16. מדוע ניצל לוט מההפיכה?</strong></summary>
+"ויזכור אלוהים את אברהם וישלח את לוט מתוך ההפיכה"
+</details>
+
 </div>

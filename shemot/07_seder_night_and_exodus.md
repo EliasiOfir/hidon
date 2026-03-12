@@ -49,4 +49,96 @@
 - **י"ב:40** - "וּמוֹשַׁב בְּנֵי יִשְׂרָאֵל אֲשֶׁר יָשְׁבוּ בְּמִצְרָיִם שְׁלֹשִׁים שָׁנָה וְאַרְבַּע מֵאוֹת שָׁנָה"
 - **י"ב:46** - "בְּבַיִת אֶחָד יֵאָכֵל... וְעֶצֶם לֹא תִשְׁבְּרוּ בוֹ"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. איזה חודש נקבע כראש חודשים?</strong></summary>
+חודש ניסן
+</details>
+
+<details>
+<summary><strong>2. באיזה יום בחודש יש לקחת את השה?</strong></summary>
+בעשור לחודש (י' בניסן)
+</details>
+
+<details>
+<summary><strong>3. באיזה יום בחודש שוחטים את הפסח?</strong></summary>
+בארבעה עשר לחודש (י"ד בניסן)
+</details>
+
+<details>
+<summary><strong>4. איזה שה צריך לקחת לקרבן הפסח?</strong></summary>
+שה תמים זכר בן שנה
+</details>
+
+<details>
+<summary><strong>5. היכן שמים את דם הפסח?</strong></summary>
+על שתי המזוזות ועל המשקוף
+</details>
+
+<details>
+<summary><strong>6. באיזה צמח מורחים את הדם?</strong></summary>
+אזוב
+</details>
+
+<details>
+<summary><strong>7. כיצד אוכלים את בשר הפסח?</strong></summary>
+צלי אש עם מצות ומרורים - לא נא ולא מבושל
+</details>
+
+<details>
+<summary><strong>8. כיצד צריך לאכול את הפסח (תיאור הלבוש)?</strong></summary>
+בחיפזון - מותניים חגורים, נעלים ברגליים, מקל ביד
+</details>
+
+<details>
+<summary><strong>9. מדוע פסח ה' על בתי ישראל?</strong></summary>
+כי היה דם על פתחם
+</details>
+
+<details>
+<summary><strong>10. מה אמר פרעה למשה ואהרן בלילה אחרי מכת בכורות?</strong></summary>
+"קומו צאו מתוך עמי"
+</details>
+
+<details>
+<summary><strong>11. מדוע אכלו בני ישראל מצות ולא לחם?</strong></summary>
+כי הבצק לא הספיק להחמיץ בגלל החיפזון
+</details>
+
+<details>
+<summary><strong>12. כמה גברים רגלי יצאו ממצרים?</strong></summary>
+כשש מאות אלף (600,000) לבד מטף
+</details>
+
+<details>
+<summary><strong>13. מהיכן לאן נסעו בני ישראל ביציאת מצרים?</strong></summary>
+מרעמסס לסוכות
+</details>
+
+<details>
+<summary><strong>14. כמה שנים ישבו בני ישראל במצרים?</strong></summary>
+430 שנה
+</details>
+
+<details>
+<summary><strong>15. מי הם "ערב רב"?</strong></summary>
+גויים שהצטרפו ליציאת מצרים
+</details>
+
+<details>
+<summary><strong>16. מה הכלל לגבי עצמות קרבן הפסח?</strong></summary>
+עצם לא תשברו בו
+</details>
+
+<details>
+<summary><strong>17. מי רשאי לאכול מקרבן הפסח ומי לא?</strong></summary>
+בן נכר לא יאכל, עבד מקנת כסף אחרי מילה יאכל
+</details>
+
+<details>
+<summary><strong>18. היכן צריך לאכול את קרבן הפסח?</strong></summary>
+בבית אחד ייאכל
+</details>
+
 </div>

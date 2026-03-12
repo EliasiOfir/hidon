@@ -63,4 +63,106 @@
 **פסוק כ"ב:**
 > וַיָּבֹא גַם הַנִּצָּב אַחַר הַלַּהַב וַיִּסְגֹּר הַחֵלֶב בְּעַד הַלַּהַב כִּי לֹא שָׁלַף הַחֶרֶב מִבִּטְנוֹ וַיֵּצֵא הַפַּרְשְׁדֹנָה׃
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מאיזה שבט היה אהוד בן גרא?</strong></summary>
+שבט בנימין ("בן הימיני")
+</details>
+
+<details>
+<summary><strong>2. מה היה הייחוד הפיזי של אהוד?</strong></summary>
+היה איטר יד ימינו - כלומר שמאלי
+</details>
+
+<details>
+<summary><strong>3. מי היה האויב ששעבד את ישראל בתקופת אהוד?</strong></summary>
+עגלון מלך מואב
+</details>
+
+<details>
+<summary><strong>4. כמה שנים שעבד עגלון את בני ישראל?</strong></summary>
+שמונה עשרה (18) שנה
+</details>
+
+<details>
+<summary><strong>5. מי היו בעלי הברית של עגלון מלך מואב?</strong></summary>
+בני עמון ועמלק
+</details>
+
+<details>
+<summary><strong>6. מהי "עיר התמרים" שנכבשה על ידי עגלון?</strong></summary>
+יריחו
+</details>
+
+<details>
+<summary><strong>7. מה היה אורך החרב שהכין אהוד ומה מיוחד בה?</strong></summary>
+אורכה גומד (כחצי אמה, כ-25 ס"מ), והיתה בעלת שני פיות (דו-חדית)
+</details>
+
+<details>
+<summary><strong>8. על איזו ירך חגר אהוד את החרב ומדוע?</strong></summary>
+על ירך ימינו, כי היה שמאלי ושלף ביד שמאל - דבר שהפתיע את עגלון
+</details>
+
+<details>
+<summary><strong>9. כיצד מתואר עגלון בפסוקים?</strong></summary>
+"איש בריא מאוד" (שמן מאוד)
+</details>
+
+<details>
+<summary><strong>10. מה אמר אהוד לעגלון כדי להישאר איתו לבד?</strong></summary>
+אמר לו "דבר סתר לי אליך", ולאחר שכולם יצאו אמר "דבר אלהים לי אליך"
+</details>
+
+<details>
+<summary><strong>11. מה עשה עגלון כששמע "דבר אלהים לי אליך"?</strong></summary>
+קם מעל הכיסא
+</details>
+
+<details>
+<summary><strong>12. מה חשבו עבדי עגלון כשמצאו את דלתות העלייה נעולות?</strong></summary>
+חשבו שהמלך "מסיך את רגליו" (עושה צרכיו)
+</details>
+
+<details>
+<summary><strong>13. לאן נמלט אהוד לאחר הרצח?</strong></summary>
+נמלט דרך הפסילים לשעירה
+</details>
+
+<details>
+<summary><strong>14. היכן תקע אהוד בשופר כדי לגייס את בני ישראל?</strong></summary>
+בהר אפרים
+</details>
+
+<details>
+<summary><strong>15. מה לכדו בני ישראל כדי למנוע מהמואבים לברוח?</strong></summary>
+את מעברות הירדן למואב
+</details>
+
+<details>
+<summary><strong>16. כמה מואבים נהרגו במלחמה?</strong></summary>
+כעשרת אלפים איש - כולם שמנים ואנשי חיל
+</details>
+
+<details>
+<summary><strong>17. כמה שנים שקטה הארץ לאחר ניצחון אהוד?</strong></summary>
+שמונים (80) שנה
+</details>
+
+<details>
+<summary><strong>18. מהי "עליית המקרה"?</strong></summary>
+חדר עליון מקורר, מקום פרטי של עגלון. שם נרצח עגלון על ידי אהוד
+</details>
+
+<details>
+<summary><strong>19. מהי האירוניה בכינוי "בן הימיני" של אהוד?</strong></summary>
+"בן ימין" שהוא דווקא שמאלי (איטר יד ימינו)
+</details>
+
+<details>
+<summary><strong>20. מאיזה פסוק: "וַיַּעַשׂ לוֹ אֵהוּד חֶרֶב וְלָהּ שְׁנֵי פֵיוֹת גֹּמֶד אָרְכָּהּ"?</strong></summary>
+פסוק ט"ז
+</details>
+
 </div>

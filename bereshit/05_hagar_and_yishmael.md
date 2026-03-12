@@ -55,4 +55,86 @@
 4. **פסוק ט"ז:יג** - "וַתִּקְרָא שֵׁם יְהוָה הַדֹּבֵר אֵלֶיהָ אַתָּה אֵל רֳאִי כִּי אָמְרָה הֲגַם הֲלֹם רָאִיתִי אַחֲרֵי רֹאִי" - הגר קוראת לה' "אל ראי".
 5. **פסוק ט"ז:ב** - "וַתֹּאמֶר שָׂרַי אֶל אַבְרָם הִנֵּה נָא עֲצָרַנִי יְהוָה מִלֶּדֶת בֹּא נָא אֶל שִׁפְחָתִי אוּלַי אִבָּנֶה מִמֶּנָּה" - הצעת שרי לאברם.
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מה היה מוצאה של הגר?</strong></summary>
+שפחה מצרית של שרי
+</details>
+
+<details>
+<summary><strong>2. מדוע הציעה שרי לאברם לבוא אל הגר?</strong></summary>
+כי שרי לא ילדה לאברם, ואמרה "אולי אבנה ממנה"
+</details>
+
+<details>
+<summary><strong>3. לאחר כמה שנים בכנען ניתנה הגר לאברם?</strong></summary>
+מקץ עשר שנים לישיבת אברם בארץ כנען
+</details>
+
+<details>
+<summary><strong>4. מה עשתה הגר כשהרתה?</strong></summary>
+זלזלה בגבירתה שרי ("ותקל גבירתה בעיניה")
+</details>
+
+<details>
+<summary><strong>5. מה אמרה שרי לאברם בכעסה?</strong></summary>
+"חמסי עליך... ישפוט ה' ביני ובינך"
+</details>
+
+<details>
+<summary><strong>6. מה עשה אברם כשנודע לו על הסכסוך?</strong></summary>
+מסר את הגר לידי שרי: "הנה שפחתך בידך, עשי לה הטוב בעיניך"
+</details>
+
+<details>
+<summary><strong>7. מה עשתה שרי להגר ומה היתה תגובת הגר?</strong></summary>
+שרי עינתה אותה, והגר ברחה מפניה
+</details>
+
+<details>
+<summary><strong>8. היכן מצא מלאך ה' את הגר?</strong></summary>
+על עין המים במדבר, על העין בדרך שור
+</details>
+
+<details>
+<summary><strong>9. מה ציווה המלאך את הגר לעשות?</strong></summary>
+לשוב אל גבירתה שרי ולהתענות תחת ידיה
+</details>
+
+<details>
+<summary><strong>10. מה הבטיח המלאך להגר על זרעה?</strong></summary>
+"הרבה ארבה את זרעך ולא יספר מרוב"
+</details>
+
+<details>
+<summary><strong>11. איזה שם אמר המלאך להגר לקרוא לבנה ומדוע?</strong></summary>
+ישמעאל - "כי שמע ה' אל עניך"
+</details>
+
+<details>
+<summary><strong>12. כיצד תואר ישמעאל בנבואת המלאך?</strong></summary>
+"פרא אדם, ידו בכל ויד כל בו, ועל פני כל אחיו ישכון"
+</details>
+
+<details>
+<summary><strong>13. איזה שם קראה הגר לה'?</strong></summary>
+"אל ראי" ("אתה אל רואי")
+</details>
+
+<details>
+<summary><strong>14. מה שם הבאר שנקראה על שם המאורע, ואיפה היא?</strong></summary>
+באר לחי ראי, בין קדש ובין ברד
+</details>
+
+<details>
+<summary><strong>15. בן כמה היה אברם כשנולד ישמעאל?</strong></summary>
+בן שמונים שנה ושש שנים (86)
+</details>
+
+<details>
+<summary><strong>16. מי קרא את שמו של ישמעאל?</strong></summary>
+אברם קרא שם בנו ישמעאל
+</details>
+
 </div>

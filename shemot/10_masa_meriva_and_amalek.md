@@ -47,4 +47,91 @@
 - **י"ז:14** - "כְּתֹב זֹאת זִכָּרוֹן בַּסֵּפֶר... כִּי מָחֹה אֶמְחֶה אֶת זֵכֶר עֲמָלֵק מִתַּחַת הַשָּׁמָיִם"
 - **י"ז:15** - "וַיִּקְרָא שְׁמוֹ ה' נִסִּי"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. היכן חנו בני ישראל כשלא היו מים?</strong></summary>
+ברפידים
+</details>
+
+<details>
+<summary><strong>2. מה דרשו בני ישראל ממשה ברפידים?</strong></summary>
+"תנו לנו מים ונשתה"
+</details>
+
+<details>
+<summary><strong>3. מה ענה משה לעם כשרבו עמו?</strong></summary>
+"מה תריבון עמדי, מה תנסון את ה'"
+</details>
+
+<details>
+<summary><strong>4. כיצד הוציא משה מים מהסלע?</strong></summary>
+ה' ציווהו להכות בצור בחורב במטהו, ויצאו מים
+</details>
+
+<details>
+<summary><strong>5. מדוע נקרא המקום "מסה ומריבה"?</strong></summary>
+על ריב בני ישראל ועל נסותם את ה'
+</details>
+
+<details>
+<summary><strong>6. מי נלחם בישראל ברפידים?</strong></summary>
+עמלק
+</details>
+
+<details>
+<summary><strong>7. למי אמר משה לבחור אנשים ולצאת להילחם בעמלק?</strong></summary>
+ליהושע
+</details>
+
+<details>
+<summary><strong>8. מה קרה כשמשה הרים את ידו?</strong></summary>
+גבר ישראל
+</details>
+
+<details>
+<summary><strong>9. מה קרה כשמשה הניח את ידו?</strong></summary>
+גבר עמלק
+</details>
+
+<details>
+<summary><strong>10. מי תמכו בידי משה ומדוע?</strong></summary>
+אהרן וחור, כי ידי משה כבדו
+</details>
+
+<details>
+<summary><strong>11. מה שמו אהרן וחור תחת משה כשידיו כבדו?</strong></summary>
+אבן
+</details>
+
+<details>
+<summary><strong>12. עד מתי היו ידי משה מורמות?</strong></summary>
+עד בוא השמש
+</details>
+
+<details>
+<summary><strong>13. מה עשה יהושע לעמלק?</strong></summary>
+החליש את עמלק
+</details>
+
+<details>
+<summary><strong>14. מה ציווה ה' לכתוב לגבי עמלק?</strong></summary>
+זיכרון בספר - "כי מחה אמחה את זכר עמלק מתחת השמים"
+</details>
+
+<details>
+<summary><strong>15. מה שם המזבח שבנה משה ומה משמעותו?</strong></summary>
+"ה' נסי"
+</details>
+
+<details>
+<summary><strong>16. היכן היה הצור שממנו יצאו מים?</strong></summary>
+בחורב
+</details>
+
+<details>
+<summary><strong>17. היכן עמד משה בזמן המלחמה בעמלק?</strong></summary>
+על ראש הגבעה, ומטה האלוהים בידו
+</details>
+
 </div>

@@ -52,4 +52,96 @@
 - **כ"א:17** - "כִּי שָׁמַע אֱלֹהִים אֶל קוֹל הַנַּעַר בַּאֲשֶׁר הוּא שָׁם"
 - **כ"א:33** - "וַיִּטַּע אֶשֶׁל בִּבְאֵר שָׁבַע וַיִּקְרָא שָׁם בְּשֵׁם ה' אֵל עוֹלָם"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. בן כמה היה אברהם כשנולד יצחק?</strong></summary>
+בן מאה שנה
+</details>
+
+<details>
+<summary><strong>2. בן כמה ימים נימול יצחק?</strong></summary>
+בן שמונה ימים
+</details>
+
+<details>
+<summary><strong>3. מה אמרה שרה לאחר לידת יצחק?</strong></summary>
+"צחוק עשה לי אלוהים, כל השומע יצחק לי"
+</details>
+
+<details>
+<summary><strong>4. מה עשה אברהם ביום הגמל את יצחק?</strong></summary>
+עשה משתה גדול
+</details>
+
+<details>
+<summary><strong>5. מה ראתה שרה שגרם לה לדרוש את גירוש הגר?</strong></summary>
+ראתה את בן הגר "מצחק"
+</details>
+
+<details>
+<summary><strong>6. מה אמרה שרה לאברהם?</strong></summary>
+"גרש את האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק"
+</details>
+
+<details>
+<summary><strong>7. כיצד הגיב אברהם לדרישת שרה?</strong></summary>
+הדבר היה רע בעיניו על אודות בנו ישמעאל
+</details>
+
+<details>
+<summary><strong>8. מה אמר ה' לאברהם לגבי דרישת שרה?</strong></summary>
+"כל אשר תאמר אליך שרה שמע בקולה, כי ביצחק יקרא לך זרע"
+</details>
+
+<details>
+<summary><strong>9. מה נתן אברהם להגר כשנשלחה?</strong></summary>
+לחם וחמת מים
+</details>
+
+<details>
+<summary><strong>10. היכן תעתה הגר עם ישמעאל?</strong></summary>
+במדבר באר שבע
+</details>
+
+<details>
+<summary><strong>11. מה עשתה הגר כשכלו המים?</strong></summary>
+השליכה את הילד תחת אחד השיחים, ישבה מנגד כמטחוי קשת ובכתה
+</details>
+
+<details>
+<summary><strong>12. מי שמע את קול הנער?</strong></summary>
+אלוהים שמע את קול הנער, ומלאך אלוהים קרא להגר מן השמים
+</details>
+
+<details>
+<summary><strong>13. מה עשה ה' כדי להציל את הגר וישמעאל?</strong></summary>
+פקח את עיניה וראתה באר מים
+</details>
+
+<details>
+<summary><strong>14. היכן גדל ישמעאל ומה היה עיסוקו?</strong></summary>
+גדל במדבר פארן והיה רובה קשת
+</details>
+
+<details>
+<summary><strong>15. מאיפה לקחה אם ישמעאל לו אישה?</strong></summary>
+מארץ מצרים
+</details>
+
+<details>
+<summary><strong>16. מי כרת ברית עם אברהם בסוף הפרק?</strong></summary>
+אבימלך ופיכול שר צבאו
+</details>
+
+<details>
+<summary><strong>17. מה נטע אברהם בבאר שבע?</strong></summary>
+אשל (עץ)
+</details>
+
+<details>
+<summary><strong>18. באיזה שם קרא אברהם לה' בבאר שבע?</strong></summary>
+"ה' אל עולם"
+</details>
+
 </div>

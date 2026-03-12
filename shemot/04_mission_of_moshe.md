@@ -44,4 +44,81 @@
 - **ד':22** - "כֹּה אָמַר ה' בְּנִי בְכֹרִי יִשְׂרָאֵל"
 - **ד':25** - "וַתִּקַּח צִפֹּרָה צֹר וַתִּכְרֹת אֶת עָרְלַת בְּנָהּ... וַתֹּאמֶר כִּי חֲתַן דָּמִים אַתָּה לִי"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. כמה אותות נתן ה' למשה?</strong></summary>
+שלושה אותות
+</details>
+
+<details>
+<summary><strong>2. מהם שלושת האותות שנתן ה' למשה?</strong></summary>
+מטה שהופך לנחש, יד שנכנסת לחיקו ויוצאת מצורעת כשלג, ומים מהיאור שיהפכו לדם ביבשת
+</details>
+
+<details>
+<summary><strong>3. למה הפך המטה כשהשליך אותו משה ארצה?</strong></summary>
+לנחש
+</details>
+
+<details>
+<summary><strong>4. מה טען משה כדי להתחמק מהשליחות?</strong></summary>
+שאינו איש דברים וכבד פה וכבד לשון
+</details>
+
+<details>
+<summary><strong>5. מי מונה כדובר של משה?</strong></summary>
+אהרן אחיו
+</details>
+
+<details>
+<summary><strong>6. מדוע מינה ה' את אהרן כדובר?</strong></summary>
+כי ה' כעס על סירובו של משה והציע את אהרן - משה ידבר אל אהרן ואהרן ידבר אל העם
+</details>
+
+<details>
+<summary><strong>7. ממי ביקש משה רשות לפני שיצא למצרים?</strong></summary>
+מיתרו חותנו
+</details>
+
+<details>
+<summary><strong>8. את מי לקח משה עמו כשיצא למצרים?</strong></summary>
+את אשתו ואת בניו
+</details>
+
+<details>
+<summary><strong>9. כיצד כינה ה' את עם ישראל בפרק זה?</strong></summary>
+"בני בכורי ישראל"
+</details>
+
+<details>
+<summary><strong>10. מה עשתה ציפורה בדרך למצרים כשה' ביקש להמית את משה?</strong></summary>
+מלה את בנה
+</details>
+
+<details>
+<summary><strong>11. מה אמרה ציפורה אחרי ברית המילה?</strong></summary>
+"כי חתן דמים אתה לי"
+</details>
+
+<details>
+<summary><strong>12. היכן פגש אהרן את משה?</strong></summary>
+בהר האלוהים
+</details>
+
+<details>
+<summary><strong>13. מה ענה ה' למשה כשטען שאינו יודע לדבר?</strong></summary>
+"מי שם פה לאדם או מי ישום אלם או חרש או פקח או עור הלא אנכי ה'"
+</details>
+
+<details>
+<summary><strong>14. מה שם המטה שנשא משה?</strong></summary>
+מטה האלוהים
+</details>
+
+<details>
+<summary><strong>15. מה אמר ה' שיעשה ללב פרעה?</strong></summary>
+שיקשה את לבו
+</details>
+
 </div>

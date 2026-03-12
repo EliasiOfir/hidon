@@ -48,4 +48,91 @@
 - **ט"ז:31** - "וַיִּקְרְאוּ בֵית יִשְׂרָאֵל אֶת שְׁמוֹ מָן וְהוּא כְּזֶרַע גַּד לָבָן וְטַעְמוֹ כְּצַפִּיחִת בִּדְבָשׁ"
 - **ט"ז:35** - "וּבְנֵי יִשְׂרָאֵל אָכְלוּ אֶת הַמָּן אַרְבָּעִים שָׁנָה עַד בֹּאָם אֶל אֶרֶץ נוֹשָׁבֶת"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. היכן נמצא מדבר סין?</strong></summary>
+בין אילים ובין סיני
+</details>
+
+<details>
+<summary><strong>2. מתי הגיעו בני ישראל למדבר סין?</strong></summary>
+בחמישה עשר לחודש השני ליציאתם ממצרים
+</details>
+
+<details>
+<summary><strong>3. על מה התלוננו בני ישראל במדבר?</strong></summary>
+על חוסר אוכל - "מי יתן מותנו ביד ה' בארץ מצרים בשבתנו על סיר הבשר באכלנו לחם לשובע"
+</details>
+
+<details>
+<summary><strong>4. מה ירד בערב ומה ירד בבוקר?</strong></summary>
+בערב עלה השלו (ציפורים), ובבוקר ירד המן
+</details>
+
+<details>
+<summary><strong>5. כיצד נראה המן?</strong></summary>
+דבר דק מחוספס, דק ככפור, כזרע גד לבן
+</details>
+
+<details>
+<summary><strong>6. מה טעם המן?</strong></summary>
+כצפיחית בדבש
+</details>
+
+<details>
+<summary><strong>7. מדוע נקרא "מן"?</strong></summary>
+כי העם שאל "מן הוא" - לא ידעו מה הוא
+</details>
+
+<details>
+<summary><strong>8. כמה מן היה כל אדם אוסף ליום?</strong></summary>
+עומר לגולגולת
+</details>
+
+<details>
+<summary><strong>9. מה קרה למן כשניסו לשמור אותו ליום המחרת?</strong></summary>
+התליע והבאיש
+</details>
+
+<details>
+<summary><strong>10. מה מיוחד ביום השישי לגבי ליקוט המן?</strong></summary>
+לוקטים לחם משנה (כפול) לכבוד השבת
+</details>
+
+<details>
+<summary><strong>11. האם ירד מן ביום השבת?</strong></summary>
+לא, ביום השביעי אין מן
+</details>
+
+<details>
+<summary><strong>12. מה קרה לאנשים שיצאו ללקוט מן בשבת?</strong></summary>
+לא מצאו
+</details>
+
+<details>
+<summary><strong>13. מה ציווה ה' לשמור לדורות מהמן?</strong></summary>
+צנצנת מן למשמרת
+</details>
+
+<details>
+<summary><strong>14. כמה שנים אכלו בני ישראל את המן?</strong></summary>
+ארבעים שנה, עד בואם לארץ נושבת
+</details>
+
+<details>
+<summary><strong>15. מהו שיעור העומר?</strong></summary>
+עשירית האיפה
+</details>
+
+<details>
+<summary><strong>16. מהם השלו?</strong></summary>
+ציפורי בשר שעלו בערב
+</details>
+
+<details>
+<summary><strong>17. כמה ימים בשבוע לוקטים מן?</strong></summary>
+שישה ימים
+</details>
+
 </div>

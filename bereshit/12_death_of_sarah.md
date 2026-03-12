@@ -45,4 +45,81 @@
 - **כ"ג:6** - "נְשִׂיא אֱלֹהִים אַתָּה בְּתוֹכֵנוּ בְּמִבְחַר קְבָרֵינוּ קְבֹר אֶת מֵתֶךָ"
 - **כ"ג:16** - "וַיִּשְׁקֹל אַבְרָהָם לְעֶפְרֹן... אַרְבַּע מֵאוֹת שֶׁקֶל כֶּסֶף עֹבֵר לַסֹּחֵר"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. בת כמה מתה שרה?</strong></summary>
+בת 127 שנים (מאה שנה ועשרים שנה ושבע שנים)
+</details>
+
+<details>
+<summary><strong>2. היכן מתה שרה?</strong></summary>
+בקריית ארבע היא חברון, בארץ כנען
+</details>
+
+<details>
+<summary><strong>3. מה עשה אברהם לאחר מות שרה?</strong></summary>
+בא לספוד לשרה ולבכותה
+</details>
+
+<details>
+<summary><strong>4. כיצד הציג אברהם את עצמו בפני בני חת?</strong></summary>
+"גר ותושב אנכי עמכם"
+</details>
+
+<details>
+<summary><strong>5. מה ביקש אברהם מבני חת?</strong></summary>
+"תנו לי אחוזת קבר עמכם"
+</details>
+
+<details>
+<summary><strong>6. כיצד כינו בני חת את אברהם?</strong></summary>
+"נשיא אלוהים אתה בתוכנו"
+</details>
+
+<details>
+<summary><strong>7. איזו מערה ביקש אברהם באופן ספציפי?</strong></summary>
+את מערת המכפלה אשר לעפרון בן צוחר, בקצה שדהו
+</details>
+
+<details>
+<summary><strong>8. מי היה בעל המערה?</strong></summary>
+עפרון בן צוחר החתי
+</details>
+
+<details>
+<summary><strong>9. מה הציע עפרון בתחילה?</strong></summary>
+לתת את השדה והמערה בחינם: "השדה נתתי לך והמערה אשר בו לך נתתיה"
+</details>
+
+<details>
+<summary><strong>10. מדוע התעקש אברהם לשלם?</strong></summary>
+רצה לשלם "בכסף מלא" - לא רצה לקבל מתנה אלא לרכוש את הקבר
+</details>
+
+<details>
+<summary><strong>11. כמה שילם אברהם עבור המערה והשדה?</strong></summary>
+400 שקל כסף
+</details>
+
+<details>
+<summary><strong>12. מהו הביטוי "עובר לסוחר"?</strong></summary>
+מטבע מקובל בסחר - הכסף ששקל אברהם לעפרון
+</details>
+
+<details>
+<summary><strong>13. היכן נמצאת מערת המכפלה?</strong></summary>
+על פני ממרא היא חברון
+</details>
+
+<details>
+<summary><strong>14. מה קם לאברהם לאחר הרכישה?</strong></summary>
+"השדה והמערה אשר בו לאברהם לאחוזת קבר" מאת בני חת
+</details>
+
+<details>
+<summary><strong>15. מהי המשמעות של רכישת מערת המכפלה?</strong></summary>
+זוהי רכישת הקרקע הראשונה של אברהם בארץ ישראל - אחוזת קבר
+</details>
+
 </div>

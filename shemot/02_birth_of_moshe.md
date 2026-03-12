@@ -52,4 +52,96 @@
 > **שמות ב', י"ד** - "וַיֹּאמֶר מִי שָׂמְךָ לְאִישׁ שַׂר וְשֹׁפֵט עָלֵינוּ הַלְהׇרְגֵנִי אַתָּה אֹמֵר כַּאֲשֶׁר הָרַגְתָּ אֶת הַמִּצְרִי"
 > **שמות ב', כ"ד** - "וַיִּשְׁמַע אֱלֹהִים אֶת נַאֲקָתָם וַיִּזְכֹּר אֱלֹהִים אֶת בְּרִיתוֹ אֶת אַבְרָהָם אֶת יִצְחָק וְאֶת יַעֲקֹב"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מאיזה שבט היו הוריו של משה?</strong></summary>
+שבט לוי (איש מבית לוי נשא את בת לוי)
+</details>
+
+<details>
+<summary><strong>2. כמה זמן הצפינה אמו של משה אותו?</strong></summary>
+שלושה ירחים (חודשים)
+</details>
+
+<details>
+<summary><strong>3. ממה הייתה עשויה התיבה שבה הושם משה?</strong></summary>
+תיבת גומא שנחמרה בחמר ובזפת
+</details>
+
+<details>
+<summary><strong>4. היכן הניחה אם משה את התיבה?</strong></summary>
+בסוף על שפת היאור
+</details>
+
+<details>
+<summary><strong>5. מי התייצבה מרחוק לראות מה יקרה לתינוק?</strong></summary>
+אחותו (מרים)
+</details>
+
+<details>
+<summary><strong>6. מי מצאה את התיבה ביאור?</strong></summary>
+בת פרעה
+</details>
+
+<details>
+<summary><strong>7. מה הציעה אחות משה לבת פרעה?</strong></summary>
+להביא מינקת עברית שתניק את הילד
+</details>
+
+<details>
+<summary><strong>8. מדוע קראה בת פרעה לילד "משה"?</strong></summary>
+כי מן המים משיתהו
+</details>
+
+<details>
+<summary><strong>9. מה עשה משה כשראה מצרי מכה איש עברי?</strong></summary>
+הכה את המצרי וטמנו בחול
+</details>
+
+<details>
+<summary><strong>10. מה קרה כשמשה ניסה להפריד בין שני עברים ניצים?</strong></summary>
+אחד מהם אמר "מי שמך לאיש שר ושופט עלינו" וחשף את סוד הריגת המצרי
+</details>
+
+<details>
+<summary><strong>11. לאן ברח משה מפני פרעה?</strong></summary>
+לארץ מדיין
+</details>
+
+<details>
+<summary><strong>12. כמה בנות היו לכהן מדיין?</strong></summary>
+שבע בנות
+</details>
+
+<details>
+<summary><strong>13. מי היה חותנו של משה ומה היה תפקידו?</strong></summary>
+רעואל, כהן מדיין
+</details>
+
+<details>
+<summary><strong>14. מה שם אשתו של משה?</strong></summary>
+ציפורה בת רעואל
+</details>
+
+<details>
+<summary><strong>15. מה שם בנו של משה ומה משמעות השם?</strong></summary>
+גרשום - כי אמר "גר הייתי בארץ נכריה"
+</details>
+
+<details>
+<summary><strong>16. מה קרה בסוף הפרק כשמת מלך מצרים?</strong></summary>
+בני ישראל נאנחו מן העבודה וזעקו, ושוועתם עלתה אל האלוהים
+</details>
+
+<details>
+<summary><strong>17. את בריתו עם מי זכר אלוהים כששמע את נאקת בני ישראל?</strong></summary>
+את בריתו עם אברהם, יצחק ויעקב
+</details>
+
+<details>
+<summary><strong>18. היכן ישב משה כשהגיע למדיין?</strong></summary>
+על הבאר
+</details>
+
 </div>

@@ -64,4 +64,106 @@
 - **ה':28** - "בְּעַד הַחַלּוֹן נִשְׁקְפָה וַתְּיַבֵּב אֵם סִיסְרָא בְּעַד הָאֶשְׁנָב מַדּוּעַ בֹּשֵׁשׁ רִכְבּוֹ לָבוֹא מַדּוּעַ אֶחֱרוּ פַּעֲמֵי מַרְכְּבוֹתָיו"
 - **ה':31** - "כֵּן יֹאבְדוּ כָל אוֹיְבֶיךָ ה' וְאֹהֲבָיו כְּצֵאת הַשֶּׁמֶשׁ בִּגְבֻרָתוֹ וַתִּשְׁקֹט הָאָרֶץ אַרְבָּעִים שָׁנָה"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מי היה מלך כנען שלחץ את ישראל בתקופת דבורה?</strong></summary>
+יבין מלך כנען אשר מלך בחצור
+</details>
+
+<details>
+<summary><strong>2. מי היה שר צבאו של יבין?</strong></summary>
+סיסרא, שישב בחרושת הגויים
+</details>
+
+<details>
+<summary><strong>3. כמה רכב ברזל היו לסיסרא?</strong></summary>
+900 רכב ברזל
+</details>
+
+<details>
+<summary><strong>4. כמה שנים לחץ סיסרא את ישראל?</strong></summary>
+20 שנה
+</details>
+
+<details>
+<summary><strong>5. כיצד מתוארת דבורה בפסוקים?</strong></summary>
+אישה נביאה, אשת לפידות, שופטת את ישראל
+</details>
+
+<details>
+<summary><strong>6. היכן ישבה דבורה כשהיא שופטת?</strong></summary>
+תחת תומר דבורה, בין הרמה ובין בית אל בהר אפרים
+</details>
+
+<details>
+<summary><strong>7. מהיכן היה ברק בן אבינועם?</strong></summary>
+מקדש נפתלי
+</details>
+
+<details>
+<summary><strong>8. מה אמר ברק לדבורה כשצוותה עליו לצאת למלחמה?</strong></summary>
+"אם תלכי עמי והלכתי ואם לא תלכי עמי לא אלך"
+</details>
+
+<details>
+<summary><strong>9. כמה לוחמים לקח ברק ומאילו שבטים?</strong></summary>
+10,000 איש מבני נפתלי ומבני זבולון
+</details>
+
+<details>
+<summary><strong>10. מה ניבאה דבורה לברק בגלל סירובו ללכת לבד?</strong></summary>
+"לא תהיה תפארתך על הדרך... כי ביד אישה ימכור ה' את סיסרא"
+</details>
+
+<details>
+<summary><strong>11. מהיכן ירד ברק עם לוחמיו לקרב?</strong></summary>
+מהר תבור
+</details>
+
+<details>
+<summary><strong>12. מי הרגה את סיסרא וכיצד?</strong></summary>
+יעל אשת חבר הקיני - תקעה יתד אוהל ברקתו בעזרת מקבת כשהיה ישן
+</details>
+
+<details>
+<summary><strong>13. מה נתנה יעל לסיסרא לפני שהרגה אותו?</strong></summary>
+כיסתה אותו בשמיכה ונתנה לו חלב לשתות
+</details>
+
+<details>
+<summary><strong>14. מי היה חבר הקיני?</strong></summary>
+נפרד מהקינים בני חובב חותן משה, ונטה אוהלו בצאננים. היה שלום בינו ליבין
+</details>
+
+<details>
+<summary><strong>15. איזה נחל גרף את צבא סיסרא?</strong></summary>
+נחל קישון
+</details>
+
+<details>
+<summary><strong>16. אילו שבטים השתתפו במלחמה לפי שירת דבורה?</strong></summary>
+אפרים, בנימין, מכיר, זבולון, יששכר, נפתלי
+</details>
+
+<details>
+<summary><strong>17. אילו שבטים לא באו למלחמה לפי שירת דבורה?</strong></summary>
+ראובן, גלעד/גד, דן, אשר
+</details>
+
+<details>
+<summary><strong>18. מי מצפה לבנה מהחלון בסוף שירת דבורה?</strong></summary>
+אם סיסרא - "בעד החלון נשקפה ותיבב אם סיסרא"
+</details>
+
+<details>
+<summary><strong>19. כמה שנים שקטה הארץ אחרי ניצחון דבורה וברק?</strong></summary>
+40 שנה
+</details>
+
+<details>
+<summary><strong>20. מאיזה פסוק: "תְּבֹרַךְ מִנָּשִׁים יָעֵל אֵשֶׁת חֶבֶר הַקֵּינִי מִנָּשִׁים בָּאֹהֶל תְּבֹרָךְ"?</strong></summary>
+שירת דבורה, פרק ה' פסוק כ"ד
+</details>
+
 </div>

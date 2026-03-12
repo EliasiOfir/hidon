@@ -66,4 +66,106 @@
 - **ט':54** - "שְׁלֹף חַרְבְּךָ וּמוֹתְתֵנִי פֶּן יֹאמְרוּ לִי אִשָּׁה הֲרָגָתְהוּ"
 - **ט':56-57** - "וַיָּשֶׁב אֱלֹהִים אֶת רָעַת אֲבִימֶלֶךְ... וְאֵת כָּל רָעַת אַנְשֵׁי שְׁכֶם הֵשִׁיב אֱלֹהִים בְּרֹאשָׁם וַתָּבֹא אֲלֵיהֶם קִלְלַת יוֹתָם"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מי היה אבימלך ומי היו הוריו?</strong></summary>
+בן ירובעל (גדעון) מפילגשו השכמית
+</details>
+
+<details>
+<summary><strong>2. כיצד שכנע אבימלך את בעלי שכם לתמוך בו?</strong></summary>
+אמר להם "מה טוב לכם, המשול בכם שבעים איש כל בני ירובעל, אם משול בכם איש אחד"
+</details>
+
+<details>
+<summary><strong>3. כמה כסף קיבל אבימלך מבית בעל ברית?</strong></summary>
+70 כסף
+</details>
+
+<details>
+<summary><strong>4. את מי שכר אבימלך בכסף?</strong></summary>
+"אנשים ריקים ופוחזים" - שכירי חרב
+</details>
+
+<details>
+<summary><strong>5. כמה מאחיו רצח אבימלך ואיך?</strong></summary>
+70 אחים, על אבן אחת בעפרה
+</details>
+
+<details>
+<summary><strong>6. מי היה האח היחיד שניצל מהטבח ומדוע?</strong></summary>
+יותם הבן הצעיר, כי נחבא
+</details>
+
+<details>
+<summary><strong>7. מהיכן נשא יותם את משל העצים?</strong></summary>
+מהר גריזים
+</details>
+
+<details>
+<summary><strong>8. אילו עצים סירבו למלוך במשל יותם ומדוע?</strong></summary>
+הזית (סירב - "החדלתי את דשני"), התאנה (סירבה - "החדלתי את מתקי"), הגפן (סירב - "החדלתי את תירושי")
+</details>
+
+<details>
+<summary><strong>9. מי הסכים למלוך במשל יותם ומה מייצג?</strong></summary>
+האטד (שיח קוצים) - מייצג את אבימלך
+</details>
+
+<details>
+<summary><strong>10. מה ניבא יותם בסוף המשל?</strong></summary>
+שתצא אש מאבימלך ותאכל את בעלי שכם, ואש מבעלי שכם תאכל את אבימלך
+</details>
+
+<details>
+<summary><strong>11. כמה שנים שלט אבימלך?</strong></summary>
+3 שנים
+</details>
+
+<details>
+<summary><strong>12. מה שלח ה' בין אבימלך לבעלי שכם?</strong></summary>
+רוח רעה
+</details>
+
+<details>
+<summary><strong>13. מי הסית את בעלי שכם נגד אבימלך?</strong></summary>
+געל בן עבד
+</details>
+
+<details>
+<summary><strong>14. מי היה זבול ומה עשה?</strong></summary>
+פקיד אבימלך בשכם, שהודיע לאבימלך על המרד של געל
+</details>
+
+<details>
+<summary><strong>15. מה עשה אבימלך לשכם לאחר שכבש אותה?</strong></summary>
+השמיד אותה וזרע בה מלח
+</details>
+
+<details>
+<summary><strong>16. כמה אנשים מתו במגדל שכם (צריח בית אל ברית)?</strong></summary>
+כאלף איש ואישה - נשרפו כשאבימלך ואנשיו הציתו את הצריח
+</details>
+
+<details>
+<summary><strong>17. כיצד נהרג אבימלך?</strong></summary>
+אישה אחת מתבץ השליכה פלח רכב (אבן ריחיים עליונה) על ראשו ורוצצה את גולגולתו
+</details>
+
+<details>
+<summary><strong>18. מה ביקש אבימלך מנושא כליו לפני מותו ומדוע?</strong></summary>
+ביקש "שלוף חרבך ומותתני" כי לא רצה שיאמרו "אישה הרגתהו"
+</details>
+
+<details>
+<summary><strong>19. מהו "פלח רכב"?</strong></summary>
+אבן ריחיים עליונה
+</details>
+
+<details>
+<summary><strong>20. כיצד התקיימה נבואת משל יותם?</strong></summary>
+"וישב אלוהים את רעת אבימלך" - אבימלך נהרג ובעלי שכם נענשו, בדיוק כפי שניבא יותם שאש תצא ביניהם ותאכלם
+</details>
+
 </div>

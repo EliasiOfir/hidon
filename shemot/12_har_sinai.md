@@ -49,4 +49,91 @@
 - **י"ט:18** - "וְהַר סִינַי עָשַׁן כֻּלּוֹ מִפְּנֵי אֲשֶׁר יָרַד עָלָיו ה' בָּאֵשׁ"
 - **י"ט:19** - "מֹשֶׁה יְדַבֵּר וְהָאֱלֹהִים יַעֲנֶנּוּ בְקוֹל"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. באיזה חודש הגיעו בני ישראל למדבר סיני?</strong></summary>
+בחודש השלישי (סיון) לצאתם ממצרים
+</details>
+
+<details>
+<summary><strong>2. מה אמר ה' למשה על ייעוד עם ישראל?</strong></summary>
+"ואתם תהיו לי ממלכת כהנים וגוי קדוש"
+</details>
+
+<details>
+<summary><strong>3. באיזה דימוי תיאר ה' את הוצאת ישראל ממצרים?</strong></summary>
+"ואשא אתכם על כנפי נשרים"
+</details>
+
+<details>
+<summary><strong>4. מה ענו בני ישראל כשמשה סיפר להם את דברי ה'?</strong></summary>
+"כל אשר דבר ה' נעשה"
+</details>
+
+<details>
+<summary><strong>5. כיצד נצטווה העם להתקדש לקראת המעמד?</strong></summary>
+לכבס שמלות ולהיות נכונים ליום השלישי
+</details>
+
+<details>
+<summary><strong>6. כמה ימי הכנה היו לפני מעמד הר סיני?</strong></summary>
+שלושה ימים
+</details>
+
+<details>
+<summary><strong>7. מה דין הנוגע בהר סיני?</strong></summary>
+מות יומת
+</details>
+
+<details>
+<summary><strong>8. מה היו התופעות ביום השלישי בבוקר?</strong></summary>
+קולות וברקים, ענן כבד על ההר, קול שופר חזק מאוד
+</details>
+
+<details>
+<summary><strong>9. כיצד נראה הר סיני בזמן ההתגלות?</strong></summary>
+עשן כולו מפני אשר ירד עליו ה' באש, עשנו כעשן הכבשן, וההר חרד מאוד
+</details>
+
+<details>
+<summary><strong>10. מה הושם סביב ההר ומדוע?</strong></summary>
+גבולות, כדי שהעם לא ייגע בהר
+</details>
+
+<details>
+<summary><strong>11. מה תפקידו של משה במעמד הר סיני?</strong></summary>
+מתווך בין ה' לעם, עולה ויורד מההר
+</details>
+
+<details>
+<summary><strong>12. מה קרה לקול השופר במהלך המעמד?</strong></summary>
+הלך וחזק מאוד
+</details>
+
+<details>
+<summary><strong>13. למי סיפר משה את דברי ה' לפני המעמד?</strong></summary>
+לזקנים
+</details>
+
+<details>
+<summary><strong>14. מי עלה עם משה להר בסוף הפרק?</strong></summary>
+אהרן
+</details>
+
+<details>
+<summary><strong>15. מהו הפסוק "מֹשֶׁה יְדַבֵּר וְהָאֱלֹהִים יַעֲנֶנּוּ בְקוֹל"?</strong></summary>
+שמות י"ט, י"ט
+</details>
+
+<details>
+<summary><strong>16. באיזה אופן ירד ה' על הר סיני?</strong></summary>
+באש, בעב הענן
+</details>
+
+<details>
+<summary><strong>17. מה הייתה תגובת העם כששמעו את קול השופר?</strong></summary>
+חרד כל העם אשר במחנה
+</details>
+
 </div>

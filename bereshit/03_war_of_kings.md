@@ -76,4 +76,96 @@
 4. **פסוק י"ד:יג** - "וַיָּבֹא הַפָּלִיט וַיַּגֵּד לְאַבְרָם הָעִבְרִי וְהוּא שֹׁכֵן בְּאֵלֹנֵי מַמְרֵא הָאֱמֹרִי" - הכינוי הראשון "העברי" במקרא.
 5. **פסוק י"ד:כ** - "וּבָרוּךְ אֵל עֶלְיוֹן אֲשֶׁר מִגֵּן צָרֶיךָ בְּיָדֶךָ וַיִּתֶּן לוֹ מַעֲשֵׂר מִכֹּל" - ברכת מלכי צדק ונתינת המעשר.
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. כמה מלכים היו בכל צד במלחמה?</strong></summary>
+ארבעה מלכים (כדרלעומר ובעלי בריתו) נגד חמישה מלכים (מלכי כיכר הירדן)
+</details>
+
+<details>
+<summary><strong>2. מי עמד בראש ברית ארבעת המלכים?</strong></summary>
+כדרלעומר מלך עילם
+</details>
+
+<details>
+<summary><strong>3. כמה שנים עבדו חמשת המלכים את כדרלעומר?</strong></summary>
+שתים עשרה שנה
+</details>
+
+<details>
+<summary><strong>4. באיזו שנה מרדו חמשת המלכים?</strong></summary>
+בשנה השלוש עשרה
+</details>
+
+<details>
+<summary><strong>5. באיזו שנה בא כדרלעומר להילחם?</strong></summary>
+בשנה הארבע עשרה
+</details>
+
+<details>
+<summary><strong>6. היכן התנהלה המלחמה בין המלכים?</strong></summary>
+בעמק השדים, הוא ים המלח
+</details>
+
+<details>
+<summary><strong>7. מה היה בעמק השדים שגרם למפלת מלכי סדום ועמורה?</strong></summary>
+בארות חמר (בורות זפת)
+</details>
+
+<details>
+<summary><strong>8. מי נשבה במלחמה?</strong></summary>
+לוט בן אחי אברם ורכושו
+</details>
+
+<details>
+<summary><strong>9. מי סיפר לאברם על שבי לוט?</strong></summary>
+הפליט
+</details>
+
+<details>
+<summary><strong>10. באיזה כינוי נקרא אברם לראשונה בפרק זה?</strong></summary>
+"העברי" - זהו הכינוי הראשון "עברי" במקרא
+</details>
+
+<details>
+<summary><strong>11. כמה חניכים הוציא אברם למלחמה ומי היו?</strong></summary>
+318 חניכים, ילידי ביתו
+</details>
+
+<details>
+<summary><strong>12. עד לאן רדף אברם את האויבים?</strong></summary>
+רדף עד דן, ואחר כך הכה אותם ורדפם עד חובה אשר משמאל לדמשק
+</details>
+
+<details>
+<summary><strong>13. מי היה מלכי צדק ומה הוציא לאברם?</strong></summary>
+מלך שלם, כוהן לאל עליון, הוציא לחם ויין
+</details>
+
+<details>
+<summary><strong>14. מה נתן אברם למלכי צדק?</strong></summary>
+מעשר מכל (עשירית מהשלל)
+</details>
+
+<details>
+<summary><strong>15. מה הציע מלך סדום לאברם?</strong></summary>
+"תן לי הנפש והרכוש קח לך"
+</details>
+
+<details>
+<summary><strong>16. מדוע סירב אברם לקחת רכוש ממלך סדום?</strong></summary>
+כדי שמלך סדום לא יאמר "אני העשרתי את אברם"
+</details>
+
+<details>
+<summary><strong>17. מהו הביטוי שאמר אברם לתאר את סירובו המוחלט?</strong></summary>
+"מחוט ועד שרוך נעל" - לא ייקח דבר
+</details>
+
+<details>
+<summary><strong>18. מי היו שלושת בעלי ברית אברם?</strong></summary>
+ענר, אשכול וממרא
+</details>
+
 </div>

@@ -54,4 +54,91 @@
 - **י':14** - "וְלֹא הָיָה כַּיּוֹם הַהוּא לְפָנָיו וְאַחֲרָיו לִשְׁמֹעַ ה' בְּקוֹל אִישׁ כִּי ה' נִלְחָם לְיִשְׂרָאֵל"
 - **י':42** - "כִּי ה' אֱלֹהֵי יִשְׂרָאֵל נִלְחָם לְיִשְׂרָאֵל"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מי היה מנהיג הקואליציה של חמשת המלכים?</strong></summary>
+אדוני צדק מלך ירושלים
+</details>
+
+<details>
+<summary><strong>2. מדוע אדוני צדק פחד מגבעון?</strong></summary>
+כי גבעון הייתה עיר גדולה "כאחת ערי הממלכה" ואנשיה גיבורים, והיא השלימה עם ישראל
+</details>
+
+<details>
+<summary><strong>3. מי הם חמשת המלכים שהתאחדו?</strong></summary>
+אדוני צדק מלך ירושלים, הוהם מלך חברון, פראם מלך ירמות, יפיע מלך לכיש, ודביר מלך עגלון
+</details>
+
+<details>
+<summary><strong>4. על מי צרו חמשת המלכים?</strong></summary>
+על גבעון
+</details>
+
+<details>
+<summary><strong>5. מה ביקשו הגבעונים מיהושע?</strong></summary>
+"אל תרף ידיך מעבדיך, עלה אלינו מהרה"
+</details>
+
+<details>
+<summary><strong>6. מאיפה עלה יהושע ומתי?</strong></summary>
+מן הגלגל, כל הלילה (מסע הפתעה)
+</details>
+
+<details>
+<summary><strong>7. מה השליך ה' על האויבים מהשמים?</strong></summary>
+אבנים גדולות (אבני ברד)
+</details>
+
+<details>
+<summary><strong>8. מי הרגו יותר - אבני הברד או חרב ישראל?</strong></summary>
+אבני הברד - "רבים אשר מתו באבני הברד מאשר הרגו בני ישראל בחרב"
+</details>
+
+<details>
+<summary><strong>9. מה אמר יהושע לשמש ולירח?</strong></summary>
+"שמש בגבעון דום, וירח בעמק אילון"
+</details>
+
+<details>
+<summary><strong>10. מה מיוחד ביום שבו עמדו השמש והירח?</strong></summary>
+"ולא היה כיום ההוא לפניו ואחריו לשמוע ה' בקול איש"
+</details>
+
+<details>
+<summary><strong>11. היכן התחבאו חמשת המלכים?</strong></summary>
+במערה במקדה
+</details>
+
+<details>
+<summary><strong>12. מה עשה יהושע כשמצאו את המלכים במערה?</strong></summary>
+ציווה לגלול אבנים על פי המערה עד סיום הקרב, ואז הוציאם, שרי ישראל שמו רגליהם על צוואריהם, ויהושע תלה אותם על חמישה עצים
+</details>
+
+<details>
+<summary><strong>13. על כמה עצים נתלו חמשת המלכים?</strong></summary>
+על חמישה עצים
+</details>
+
+<details>
+<summary><strong>14. אילו ערים כבש יהושע במסע הדרום?</strong></summary>
+מקדה, לבנה, לכיש, עגלון, חברון, דביר
+</details>
+
+<details>
+<summary><strong>15. היכן הומם ה' את האויבים?</strong></summary>
+בגבעון, ורדפם בדרך מעלה בית חורון
+</details>
+
+<details>
+<summary><strong>16. מה המשפט החוזר שמסכם את מלחמות יהושע?</strong></summary>
+"כי ה' אלוהי ישראל נלחם לישראל"
+</details>
+
+<details>
+<summary><strong>17. מאיזה פסוק: "שמש בגבעון דום וירח בעמק אילון"?</strong></summary>
+פרק י פסוקים יב-יג
+</details>
+
 </div>

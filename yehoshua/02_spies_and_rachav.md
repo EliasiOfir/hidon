@@ -54,4 +54,96 @@
 4. **פרק ב פסוק יח** - "הִנֵּה אֲנַחְנוּ בָאִים בָּאָרֶץ אֶת תִּקְוַת חוּט הַשָּׁנִי הַזֶּה תִּקְשְׁרִי בַּחַלּוֹן אֲשֶׁר הוֹרַדְתֵּנוּ בוֹ"
 5. **פרק ב פסוק כד** - "וַיֹּאמְרוּ אֶל יְהוֹשֻׁעַ כִּי נָתַן ה' בְּיָדֵנוּ אֶת כָּל הָאָרֶץ וְגַם נָמֹגוּ כָּל יֹשְׁבֵי הָאָרֶץ מִפָּנֵינוּ"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מאיפה שלח יהושע את המרגלים?</strong></summary>
+מן השיטים
+</details>
+
+<details>
+<summary><strong>2. כמה מרגלים שלח יהושע?</strong></summary>
+שניים
+</details>
+
+<details>
+<summary><strong>3. כיצד נשלחו המרגלים?</strong></summary>
+בסתר - "חרש"
+</details>
+
+<details>
+<summary><strong>4. מהו שמה של האישה שאצלה התחבאו המרגלים?</strong></summary>
+רחב
+</details>
+
+<details>
+<summary><strong>5. כיצד מתוארת רחב בפסוק?</strong></summary>
+אישה זונה
+</details>
+
+<details>
+<summary><strong>6. מי גילה שמרגלים ישראלים הגיעו ליריחו?</strong></summary>
+מלך יריחו
+</details>
+
+<details>
+<summary><strong>7. היכן הסתירה רחב את המרגלים?</strong></summary>
+על הגג, בפשתי העץ הערוכות לה
+</details>
+
+<details>
+<summary><strong>8. לאן שלחה רחב את הרודפים?</strong></summary>
+לרדוף בדרך הירדן אל המעברות
+</details>
+
+<details>
+<summary><strong>9. אילו אירועים מזכירה רחב כהוכחה לגבורת ישראל?</strong></summary>
+קריעת ים סוף והניצחון על שני מלכי האמורי - סיחון ועוג
+</details>
+
+<details>
+<summary><strong>10. מה רחב מכריזה על ה'?</strong></summary>
+"ה' אלהיכם הוא אלהים בשמים ממעל ועל הארץ מתחת"
+</details>
+
+<details>
+<summary><strong>11. כיצד הורידה רחב את המרגלים מביתה?</strong></summary>
+בחבל בעד החלון, כי ביתה היה בקיר החומה
+</details>
+
+<details>
+<summary><strong>12. מה הסימן שרחב צריכה לקשור בחלון?</strong></summary>
+תקוות חוט השני
+</details>
+
+<details>
+<summary><strong>13. מה התנאים שהמרגלים הציבו לרחב?</strong></summary>
+לקשור חוט השני בחלון, לאסוף את כל בני משפחתה אל הבית, ולא לגלות על עניינם
+</details>
+
+<details>
+<summary><strong>14. לאן הלכו המרגלים אחרי שירדו מבית רחב?</strong></summary>
+להר, שם נחבאו שלושה ימים עד שוב הרודפים
+</details>
+
+<details>
+<summary><strong>15. כמה ימים נחבאו המרגלים בהר?</strong></summary>
+שלושה ימים
+</details>
+
+<details>
+<summary><strong>16. מה דיווחו המרגלים ליהושע כשחזרו?</strong></summary>
+"כי נתן ה' בידנו את כל הארץ וגם נמוגו כל יושבי הארץ מפנינו"
+</details>
+
+<details>
+<summary><strong>17. את מי ביקשה רחב להציל?</strong></summary>
+את אביה, את אמה, את אחיה, את אחיותיה ואת כל אשר להם
+</details>
+
+<details>
+<summary><strong>18. מאיזה פסוק: "ונשמע וימס לבבנו ולא קמה עוד רוח באיש מפניכם"?</strong></summary>
+פרק ב פסוק יא
+</details>
+
 </div>

@@ -41,4 +41,81 @@
 - **כ':11** - "כִּי אָמַרְתִּי רַק אֵין יִרְאַת אֱלֹהִים בַּמָּקוֹם הַזֶּה"
 - **כ':12** - "וְגַם אָמְנָה אֲחֹתִי בַת אָבִי הִיא אַךְ לֹא בַת אִמִּי וַתְּהִי לִי לְאִשָּׁה"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. לאן נסע אברהם בתחילת הפרק?</strong></summary>
+לגרר
+</details>
+
+<details>
+<summary><strong>2. מה אמר אברהם על שרה בגרר?</strong></summary>
+"אחותי היא"
+</details>
+
+<details>
+<summary><strong>3. מי לקח את שרה?</strong></summary>
+אבימלך מלך גרר
+</details>
+
+<details>
+<summary><strong>4. כיצד הזהיר ה' את אבימלך?</strong></summary>
+בא אליו בחלום הלילה ואמר "הנך מת על האישה אשר לקחת והיא בעולת בעל"
+</details>
+
+<details>
+<summary><strong>5. כיצד הגן אבימלך על עצמו בפני ה'?</strong></summary>
+אמר "בתם לבבי ובנקיון כפי עשיתי זאת" - הוא לא ידע שהיא נשואה
+</details>
+
+<details>
+<summary><strong>6. האם אבימלך קרב אל שרה?</strong></summary>
+לא, וה' אמר "גם אנכי ידעתי כי בתם לבבך... ואמנע גם אנכי אותך מחטוא לי"
+</details>
+
+<details>
+<summary><strong>7. באיזה תואר כינה ה' את אברהם לראשונה?</strong></summary>
+נביא - "כי נביא הוא ויתפלל בעדך"
+</details>
+
+<details>
+<summary><strong>8. מה שאל אבימלך את אברהם כשקרא לו?</strong></summary>
+"מה עשית לנו ומה חטאתי לך"
+</details>
+
+<details>
+<summary><strong>9. מדוע אמר אברהם ששרה אחותו?</strong></summary>
+"כי אמרתי רק אין יראת אלוהים במקום הזה" - חשש שיהרגוהו בגלל אשתו
+</details>
+
+<details>
+<summary><strong>10. מה היה הקשר המשפחתי האמיתי בין אברהם לשרה?</strong></summary>
+"אחותי בת אבי היא אך לא בת אמי" - אחות מצד האב
+</details>
+
+<details>
+<summary><strong>11. מה נתן אבימלך לאברהם כפיצוי?</strong></summary>
+צאן ובקר, עבדים ושפחות, והחזיר את שרה
+</details>
+
+<details>
+<summary><strong>12. כמה כסף נתן אבימלך לשרה ומה כינוי הכסף?</strong></summary>
+אלף כסף, "כסות עיניים"
+</details>
+
+<details>
+<summary><strong>13. מה עשה אברהם לאחר שאבימלך החזיר את שרה?</strong></summary>
+התפלל לה', וה' ריפא את אבימלך ונשותיו
+</details>
+
+<details>
+<summary><strong>14. האם זו הפעם הראשונה שאברהם אומר על שרה "אחותי היא"?</strong></summary>
+לא, הוא עשה זאת גם בפרק י"ב כשירד למצרים
+</details>
+
+<details>
+<summary><strong>15. מה הבטיח ה' שיקרה אם אבימלך ישיב את שרה?</strong></summary>
+אברהם יתפלל בעדו ויחיה, ואם לא ישיב - "מות תמות"
+</details>
+
 </div>

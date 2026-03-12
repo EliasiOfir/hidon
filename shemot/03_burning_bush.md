@@ -43,4 +43,81 @@
 - **ג':11** - "מִי אָנֹכִי כִּי אֵלֵךְ אֶל פַּרְעֹה וְכִי אוֹצִיא אֶת בְּנֵי יִשְׂרָאֵל מִמִּצְרָיִם"
 - **ג':14** - "אֶהְיֶה אֲשֶׁר אֶהְיֶה... כֹּה תֹאמַר לִבְנֵי יִשְׂרָאֵל אֶהְיֶה שְׁלָחַנִי אֲלֵיכֶם"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. את צאן מי רעה משה כשהתגלה אליו ה'?</strong></summary>
+את צאן יתרו חותנו כהן מדין
+</details>
+
+<details>
+<summary><strong>2. לאן הנהיג משה את הצאן?</strong></summary>
+אל אחר המדבר, עד הר האלוהים חורבה
+</details>
+
+<details>
+<summary><strong>3. כיצד נראה ה' למשה בסנה?</strong></summary>
+מלאך ה' נראה אליו בלבת אש מתוך הסנה - הסנה בוער באש אך אינו אוכל
+</details>
+
+<details>
+<summary><strong>4. מה ענה משה כשה' קרא לו "משה משה"?</strong></summary>
+הנני
+</details>
+
+<details>
+<summary><strong>5. מה ציווה ה' את משה לעשות כשהתקרב לסנה?</strong></summary>
+לחלוץ נעליו כי המקום אדמת קודש
+</details>
+
+<details>
+<summary><strong>6. כאלוהי מי הציג עצמו ה' למשה?</strong></summary>
+אלוהי אברהם, אלוהי יצחק ואלוהי יעקב
+</details>
+
+<details>
+<summary><strong>7. מה עשה משה כשה' הציג עצמו?</strong></summary>
+הסתיר פניו כי ירא מהביט אל האלוהים
+</details>
+
+<details>
+<summary><strong>8. כיצד תיאר ה' את הארץ שאליה יעלה את בני ישראל?</strong></summary>
+ארץ טובה ורחבה, זבת חלב ודבש
+</details>
+
+<details>
+<summary><strong>9. מה שאל משה כשה' שלח אותו אל פרעה?</strong></summary>
+"מי אנכי כי אלך אל פרעה"
+</details>
+
+<details>
+<summary><strong>10. מה ענה ה' למשה כשביקש לדעת את שם האלוהים?</strong></summary>
+"אהיה אשר אהיה"
+</details>
+
+<details>
+<summary><strong>11. כמה ימים ביקשו מפרעה ללכת במדבר?</strong></summary>
+שלושת ימים
+</details>
+
+<details>
+<summary><strong>12. כמה עמים יושבים בארץ המובטחת לפי הפרק?</strong></summary>
+שישה עמים: כנעני, חתי, אמורי, פריזי, חוי ויבוסי
+</details>
+
+<details>
+<summary><strong>13. מה שם ההר שבו התגלה ה' למשה?</strong></summary>
+הר האלוהים חורב
+</details>
+
+<details>
+<summary><strong>14. מה הבטיח ה' למשה כשהתקשה לקבל את השליחות?</strong></summary>
+"כי אהיה עמך"
+</details>
+
+<details>
+<summary><strong>15. למי ציווה ה' את משה לאסוף לפני הפנייה לפרעה?</strong></summary>
+את זקני ישראל
+</details>
+
 </div>

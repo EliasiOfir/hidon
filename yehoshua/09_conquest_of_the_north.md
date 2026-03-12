@@ -49,4 +49,86 @@
 - **י"א:20** - "כִּי מֵאֵת ה' הָיְתָה לְחַזֵּק אֶת לִבָּם לִקְרַאת הַמִּלְחָמָה"
 - **י"א:23** - "וַיִּקַּח יְהוֹשֻׁעַ אֶת כָּל הָאָרֶץ... וַתִּשְׁקֹט הָאָרֶץ מִמִּלְחָמָה"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. מי היה מנהיג הקואליציה הצפונית?</strong></summary>
+יבין מלך חצור
+</details>
+
+<details>
+<summary><strong>2. מדוע חצור הייתה כל כך חשובה?</strong></summary>
+"כי חצור לפנים היא ראש כל הממלכות האלה"
+</details>
+
+<details>
+<summary><strong>3. לאילו מלכים שלח יבין?</strong></summary>
+אל יובב מלך מדון ואל מלכי שמרון ואכשף ומלכים רבים נוספים בצפון
+</details>
+
+<details>
+<summary><strong>4. כיצד מתואר גודל צבא האויב?</strong></summary>
+"עם רב כחול אשר על שפת הים לרוב וסוס ורכב רב מאוד"
+</details>
+
+<details>
+<summary><strong>5. היכן התרכזו צבאות הצפון למלחמה?</strong></summary>
+על מי מרום
+</details>
+
+<details>
+<summary><strong>6. מה ה' אומר ליהושע לפני הקרב?</strong></summary>
+"אל תירא מפניהם, כי מחר כעת הזאת אנכי נותן את כולם חללים לפני ישראל"
+</details>
+
+<details>
+<summary><strong>7. מה ה' מצווה לעשות לסוסים ולמרכבות?</strong></summary>
+"את סוסיהם תעקר ואת מרכבותיהם תשרוף באש"
+</details>
+
+<details>
+<summary><strong>8. כיצד תקף יהושע את האויב?</strong></summary>
+בא עליהם פתאום על מי מרום
+</details>
+
+<details>
+<summary><strong>9. עד היכן רדפו ישראל את האויב?</strong></summary>
+עד צידון רבה, עד משרפות מים, ועד בקעת מצפה
+</details>
+
+<details>
+<summary><strong>10. מה מיוחד בחצור לעומת שאר הערים שנכבשו?</strong></summary>
+חצור היא היחידה מערי התלים שנשרפה באש
+</details>
+
+<details>
+<summary><strong>11. איזו עיר הייתה היחידה שהשלימה עם ישראל?</strong></summary>
+גבעון (החיוים יושבי גבעון) - "לא היה עיר אשר השלימה אל בני ישראל בלתי החיוי יושבי גבעון"
+</details>
+
+<details>
+<summary><strong>12. אילו אזורים כבש יהושע לפי הסיכום?</strong></summary>
+ההר, כל הנגב, כל ארץ הגושן, השפלה, והערבה
+</details>
+
+<details>
+<summary><strong>13. את מי כרת יהושע מההר, מחברון, מדביר ומענב?</strong></summary>
+את הענקים
+</details>
+
+<details>
+<summary><strong>14. באיזה משפט מסתיים סיכום הכיבושים?</strong></summary>
+"והארץ שקטה ממלחמה"
+</details>
+
+<details>
+<summary><strong>15. מדוע לפי הכתוב עמי כנען לא ביקשו שלום?</strong></summary>
+"כי מאת ה' היתה לחזק את לבם לקראת המלחמה"
+</details>
+
+<details>
+<summary><strong>16. מאיזה פסוק: "כי חצור לפנים היא ראש כל הממלכות האלה"?</strong></summary>
+פרק יא פסוק י
+</details>
+
 </div>

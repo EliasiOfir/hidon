@@ -45,4 +45,86 @@
 - **י"ז:17** - "הַלְּבֶן מֵאָה שָׁנָה יִוָּלֵד וְאִם שָׂרָה הֲבַת תִּשְׁעִים שָׁנָה תֵּלֵד"
 - **י"ז:19** - "אֲבָל שָׂרָה אִשְׁתְּךָ יֹלֶדֶת לְךָ בֵּן וְקָרָאתָ אֶת שְׁמוֹ יִצְחָק וַהֲקִמֹתִי אֶת בְּרִיתִי אִתּוֹ"
 
+## שאלות לתרגול
+
+<details>
+<summary><strong>1. בן כמה היה אברם כשה' התגלה אליו בפרק זה?</strong></summary>
+בן 99 שנים
+</details>
+
+<details>
+<summary><strong>2. באיזה שם הציג ה' את עצמו בהתגלות?</strong></summary>
+"אני אל שדי"
+</details>
+
+<details>
+<summary><strong>3. מה ציווה ה' את אברם בתחילת ההתגלות?</strong></summary>
+"התהלך לפני והיה תמים"
+</details>
+
+<details>
+<summary><strong>4. מה השם החדש שקיבל אברם ומה משמעותו?</strong></summary>
+אברהם - "כי אב המון גויים נתתיך"
+</details>
+
+<details>
+<summary><strong>5. מה השם החדש שקיבלה שרי?</strong></summary>
+שרה
+</details>
+
+<details>
+<summary><strong>6. מהו אות הברית שה' קבע?</strong></summary>
+מילה בבשר הערלה (ברית מילה)
+</details>
+
+<details>
+<summary><strong>7. בן כמה ימים יש למול תינוק?</strong></summary>
+ביום השמיני
+</details>
+
+<details>
+<summary><strong>8. מה העונש על מי שלא נימול?</strong></summary>
+"ונכרתה הנפש ההיא מעמיה"
+</details>
+
+<details>
+<summary><strong>9. מה הבטיח ה' לאברהם לגבי ארץ כנען?</strong></summary>
+שתהיה לו ולזרעו לאחוזת עולם
+</details>
+
+<details>
+<summary><strong>10. מדוע צחק אברהם כששמע על הבטחת הבן?</strong></summary>
+כי תמה: "הלבן מאה שנה ייולד, ואם שרה הבת תשעים שנה תלד?"
+</details>
+
+<details>
+<summary><strong>11. מה ביקש אברהם מה' לגבי ישמעאל?</strong></summary>
+"לו ישמעאל יחיה לפניך"
+</details>
+
+<details>
+<summary><strong>12. מה ענה ה' לגבי הברית - עם מי תהיה?</strong></summary>
+הברית תהיה עם יצחק, הבן שייוולד משרה
+</details>
+
+<details>
+<summary><strong>13. מה הובטח לישמעאל למרות שהברית לא תהיה עמו?</strong></summary>
+שיוליד 12 נשיאים ויהיה לגוי גדול
+</details>
+
+<details>
+<summary><strong>14. בן כמה היה ישמעאל כשנימול?</strong></summary>
+בן 13
+</details>
+
+<details>
+<summary><strong>15. בן כמה תהיה שרה כשתלד לפי דברי ה'?</strong></summary>
+בת תשעים שנה
+</details>
+
+<details>
+<summary><strong>16. מתי נימול אברהם - באיזה גיל?</strong></summary>
+בגיל 99
+</details>
+
 </div>
