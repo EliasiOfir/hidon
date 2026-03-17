@@ -19,6 +19,7 @@
 * [שידוך רבקה](bereshit/13_shiduch_rivka.md)
 * [גניבת הברכות](bereshit/14_stolen_blessings.md)
 * [חלום יעקב בבית אל](bereshit/15_jacobs_dream.md)
+* [שאלות חוצות פרקים](bereshit/cross_chapter.md)
 
 ## ספר שמות
 
@@ -26,6 +27,7 @@
 * [לידת משה ונעוריו](shemot/02_birth_of_moshe.md)
 * [הסנה הבוער](shemot/03_burning_bush.md)
 * [שליחות משה](shemot/04_mission_of_moshe.md)
+* [משה ואהרן מול פרעה](shemot/05_moshe_and_aharon_vs_pharaoh.md)
 * [מכת בכורות](shemot/06_plague_of_firstborn.md)
 * [ליל הסדר ויציאת מצרים](shemot/07_seder_night_and_exodus.md)
 * [קריעת ים סוף](shemot/08_splitting_of_the_sea.md)
@@ -33,6 +35,7 @@
 * [מסה ומריבה ומלחמת עמלק](shemot/10_masa_meriva_and_amalek.md)
 * [יתרו](shemot/11_yitro.md)
 * [מעמד הר סיני](shemot/12_har_sinai.md)
+* [שאלות חוצות פרקים](shemot/cross_chapter.md)
 
 ## ספר במדבר
 
@@ -42,6 +45,7 @@
 * [מחלוקת קורח](bamidbar/04_korach_rebellion.md)
 * [מי מריבה ומות מרים ואהרן](bamidbar/05_mei_meriva_and_deaths.md)
 * [נחש הנחושת ושירת הבאר](bamidbar/06_copper_snake_and_well_song.md)
+* [שאלות חוצות פרקים](bamidbar/cross_chapter.md)
 
 ## ספר יהושע
 
@@ -54,6 +58,7 @@
 * [ערמת הגבעונים](yehoshua/07_givonite_deception.md)
 * [מלחמת חמשת המלכים](yehoshua/08_war_of_five_kings.md)
 * [כיבוש הצפון](yehoshua/09_conquest_of_the_north.md)
+* [שאלות חוצות פרקים](yehoshua/cross_chapter.md)
 
 ## ספר שופטים
 
@@ -64,21 +69,11 @@
 * [דבורה וברק](shoftim/04_devorah_and_barak.md)
 * [גדעון](shoftim/05_gideon.md)
 * [אבימלך](shoftim/06_avimelech.md)
+* [שאלות חוצות פרקים](shoftim/cross_chapter.md)
 
-## שאלות חוצות פרקים
+## שאלות חוצות ספרים
 
-* [שאלות חוצות פרקים - בראשית](questions/cross_chapter_bereshit.md)
-* [שאלות חוצות פרקים - שמות](questions/cross_chapter_shemot.md)
-* [שאלות חוצות פרקים - במדבר](questions/cross_chapter_bamidbar.md)
-* [שאלות חוצות פרקים - יהושע](questions/cross_chapter_yehoshua.md)
-* [שאלות חוצות פרקים - שופטים](questions/cross_chapter_shoftim.md)
 * [שאלות חוצות ספרים](questions/cross_book_questions.md)
-
-## סוגי שאלות
-
-* [מי אמר למי?](questions/who_said_to_whom.md)
-* [זהה את הדמות](questions/identify_the_character.md)
-* [מה לא שייך + נכון/לא נכון](questions/odd_one_out_and_true_false.md)
 
 ## כלי למידה
 
