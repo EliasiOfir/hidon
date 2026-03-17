@@ -26,7 +26,6 @@
 * [לידת משה ונעוריו](shemot/02_birth_of_moshe.md)
 * [הסנה הבוער](shemot/03_burning_bush.md)
 * [שליחות משה](shemot/04_mission_of_moshe.md)
-* [משה ואהרן מול פרעה](shemot/05_moshe_and_aharon_vs_pharaoh.md)
 * [מכת בכורות](shemot/06_plague_of_firstborn.md)
 * [ליל הסדר ויציאת מצרים](shemot/07_seder_night_and_exodus.md)
 * [קריעת ים סוף](shemot/08_splitting_of_the_sea.md)
