@@ -71,6 +71,14 @@
 * [אבימלך](shoftim/06_avimelech.md)
 * [שאלות חוצות פרקים](shoftim/cross_chapter.md)
 
+## שאלות על טקסט
+
+* [בראשית](text_questions/bereshit.md)
+* [שמות](text_questions/shemot.md)
+* [במדבר](text_questions/bamidbar.md)
+* [יהושע](text_questions/yehoshua.md)
+* [שופטים](text_questions/shoftim.md)
+
 ## שאלות חוצות ספרים
 
 * [שאלות חוצות ספרים](questions/cross_book_questions.md)
