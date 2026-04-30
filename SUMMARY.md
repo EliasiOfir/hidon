@@ -19,6 +19,11 @@
 * [שידוך רבקה](bereshit/13_shiduch_rivka.md)
 * [גניבת הברכות](bereshit/14_stolen_blessings.md)
 * [חלום יעקב בבית אל](bereshit/15_jacobs_dream.md)
+* ✨ [יעקב ורחל - המפגש בבאר](bereshit/16_yaakov_rachel_meeting.md)
+* ✨ [נישואי יעקב - לאה ורחל](bereshit/17_yaakov_marriages.md)
+* ✨ [לידות שבטי ישראל](bereshit/18_birth_of_tribes.md)
+* ✨ [יעקב ולבן - עסקת הצאן](bereshit/19_yaakov_lavan_flock.md)
+* ✨ [יעקב בורח מלבן](bereshit/20_yaakov_flees_lavan.md)
 * [שאלות חוצות פרקים](bereshit/cross_chapter.md)
 
 ## ספר שמות
@@ -69,6 +74,11 @@
 * [דבורה וברק](shoftim/04_devorah_and_barak.md)
 * [גדעון](shoftim/05_gideon.md)
 * [אבימלך](shoftim/06_avimelech.md)
+* ✨ [תולע, יאיר וחזרת ישראל לחטוא](shoftim/07_tolah_yair.md)
+* ✨ [יפתח](shoftim/08_yiftach.md)
+* ✨ [שיבולת ושופטים קטנים](shoftim/09_shibboleth_and_small_judges.md)
+* ✨ [לידת שמשון](shoftim/10_birth_of_shimshon.md)
+* ✨ [שמשון](shoftim/11_shimshon.md)
 * [שאלות חוצות פרקים](shoftim/cross_chapter.md)
 
 ## שאלות על טקסט
