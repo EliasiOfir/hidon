@@ -1,3 +1,7 @@
 .DS_Store
 /.idea/modules.xml
 /.idea/vcs.xml
+__pycache__/
+*.pdf
+questions.json
+.claude/
