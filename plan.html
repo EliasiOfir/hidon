@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>לו"ז לימוד — חידון התנ"ך שלב ב'</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #1a1a2e;
+    color: #eee;
+    min-height: 100vh;
+    padding: 24px 16px 60px;
+  }
+  h1 {
+    font-size: 1.8rem;
+    color: #f0c040;
+    text-align: center;
+    margin-bottom: 6px;
+  }
+  .subtitle { color: #aaa; text-align: center; margin-bottom: 28px; font-size: 0.95rem; }
+
+  .overall-progress {
+    max-width: 700px;
+    margin: 0 auto 32px;
+    background: #16213e;
+    border-radius: 14px;
+    padding: 16px 20px;
+  }
+  .overall-progress .label {
+    display: flex;
+    justify-content: space-between;
+    color: #aaa;
+    font-size: 0.9rem;
+    margin-bottom: 8px;
+  }
+  .overall-progress .label span { color: #f0c040; font-weight: bold; }
+  .bar-wrap { background: #0f1a30; border-radius: 8px; height: 10px; }
+  .bar-fill {
+    height: 10px;
+    background: #f0c040;
+    border-radius: 8px;
+    transition: width 0.4s ease;
+  }
+
+  .day-block {
+    max-width: 700px;
+    margin: 0 auto 20px;
+    background: #16213e;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  }
+  .day-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 20px;
+    background: #0f3460;
+    cursor: pointer;
+    user-select: none;
+  }
+  .day-header:hover { background: #1a4a7a; }
+  .day-title { font-size: 1.05rem; font-weight: bold; color: #f0c040; }
+  .day-date { color: #aaa; font-size: 0.9rem; }
+  .day-count { font-size: 0.85rem; color: #aaa; }
+  .day-count .done { color: #4caf50; font-weight: bold; }
+  .day-count.complete .done { color: #f0c040; }
+
+  .story-list { padding: 8px 0; }
+  .story-list.collapsed { display: none; }
+
+  .story-row {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 1px solid #1e2d4a;
+    gap: 14px;
+    transition: background 0.15s;
+    cursor: pointer;
+  }
+  .story-row:last-child { border-bottom: none; }
+  .story-row:hover { background: #1e2d4a; }
+  .story-row.done { opacity: 0.55; }
+  .story-row.done .story-name { text-decoration: line-through; color: #888; }
+
+  .story-num {
+    min-width: 28px;
+    color: #555;
+    font-size: 0.85rem;
+    text-align: center;
+  }
+  .story-row.done .story-num { color: #4caf50; }
+
+  .checkbox {
+    width: 22px;
+    height: 22px;
+    border: 2px solid #334;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: all 0.2s;
+  }
+  .story-row.done .checkbox {
+    background: #4caf50;
+    border-color: #4caf50;
+  }
+  .checkbox svg { display: none; }
+  .story-row.done .checkbox svg { display: block; }
+
+  .story-name { flex: 1; font-size: 1rem; }
+  .story-book {
+    font-size: 0.8rem;
+    color: #6a8ab0;
+    background: #0f1a30;
+    padding: 3px 8px;
+    border-radius: 10px;
+    white-space: nowrap;
+  }
+
+  .reset-btn {
+    display: block;
+    margin: 40px auto 0;
+    padding: 10px 24px;
+    background: transparent;
+    border: 1px solid #334;
+    color: #666;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+  }
+  .reset-btn:hover { border-color: #c0392b; color: #c0392b; }
+</style>
+</head>
+<body>
+
+<h1>לו"ז לימוד — חידון התנ"ך שלב ב'</h1>
+<p class="subtitle">31.5 · סמן כל סיפור לאחר שלמדת אותו</p>
+
+<div class="overall-progress">
+  <div class="label">
+    <span id="totalDoneLabel">0 / 57 סיפורים</span>
+    <span id="totalPctLabel">0%</span>
+  </div>
+  <div class="bar-wrap"><div class="bar-fill" id="totalBar" style="width:0%"></div></div>
+</div>
+
+<div id="days"></div>
+
+<button class="reset-btn" onclick="resetAll()">איפוס הכל</button>
+
+<script>
+const DAYS = [
+  {
+    date: "12.5", day: "ג'",
+    stories: [
+      { id: 1,  name: "לך לך",                         book: "בראשית" },
+      { id: 2,  name: "אברם ולוט",                      book: "בראשית" },
+      { id: 3,  name: "מלחמת המלכים",                   book: "בראשית" },
+      { id: 4,  name: "ברית בין הבתרים",                book: "בראשית" },
+      { id: 5,  name: "הגר וישמעאל",                    book: "בראשית" },
+      { id: 6,  name: "ברית מילה",                      book: "בראשית" },
+      { id: 7,  name: "בשורת יצחק + מלאכים בסדום",     book: "בראשית" },
+    ]
+  },
+  {
+    date: "13.5", day: "ד'",
+    stories: [
+      { id: 8,  name: "סדום ועמורה",                    book: "בראשית" },
+      { id: 9,  name: "אברהם ואבימלך",                  book: "בראשית" },
+      { id: 10, name: "לידת יצחק + גירוש הגר",          book: "בראשית" },
+      { id: 11, name: "עקידת יצחק",                     book: "בראשית" },
+      { id: 12, name: "מות שרה",                        book: "בראשית" },
+      { id: 13, name: "שידוך רבקה",                     book: "בראשית" },
+      { id: 14, name: "ברכות גנובות",                   book: "בראשית" },
+    ]
+  },
+  {
+    date: "14.5", day: "ה'",
+    stories: [
+      { id: 15, name: "חלום יעקב",                      book: "בראשית" },
+      { id: 16, name: "יעקב ורחל — הפגישה",             book: "בראשית" },
+      { id: 17, name: "נישואי יעקב",                    book: "בראשית" },
+      { id: 18, name: "לידת השבטים",                    book: "בראשית" },
+      { id: 19, name: "עסקת הצאן עם לבן",               book: "בראשית" },
+      { id: 20, name: "יעקב בורח מלבן",                 book: "בראשית" },
+      { id: 21, name: "עבדות במצרים",                   book: "שמות"   },
+    ]
+  },
+  {
+    date: "15.5", day: "ו'",
+    stories: [
+      { id: 22, name: "לידת משה",                       book: "שמות"   },
+      { id: 23, name: "הסנה הבוער",                     book: "שמות"   },
+      { id: 24, name: "שליחות משה",                     book: "שמות"   },
+      { id: 25, name: "מכת בכורות",                     book: "שמות"   },
+      { id: 26, name: "ליל הסדר ויציאת מצרים",          book: "שמות"   },
+      { id: 27, name: "קריעת ים סוף",                   book: "שמות"   },
+      { id: 28, name: "המן",                            book: "שמות"   },
+    ]
+  },
+  {
+    date: "17.5", day: "א'",
+    stories: [
+      { id: 29, name: "מסה ומריבה ועמלק",               book: "שמות"   },
+      { id: 30, name: "יתרו",                           book: "שמות"   },
+      { id: 31, name: "הר סיני",                        book: "שמות"   },
+      { id: 32, name: "המתאוננים והשלו",                book: "במדבר"  },
+      { id: 33, name: "מרים ואהרן מדברים במשה",         book: "במדבר"  },
+      { id: 34, name: "חטא המרגלים",                    book: "במדבר"  },
+      { id: 35, name: "מרד קורח",                       book: "במדבר"  },
+    ]
+  },
+  {
+    date: "18.5", day: "ב'",
+    stories: [
+      { id: 36, name: "מי מריבה ומיתות",                book: "במדבר"  },
+      { id: 37, name: "נחש הנחושת ושירת הבאר",          book: "במדבר"  },
+      { id: 38, name: "הכנות לכניסה לארץ",              book: "יהושע"  },
+      { id: 39, name: "מרגלים ורחב",                    book: "יהושע"  },
+      { id: 40, name: "קריעת הירדן",                    book: "יהושע"  },
+      { id: 41, name: "כיבוש יריחו",                    book: "יהושע"  },
+      { id: 42, name: "חטא עכן",                        book: "יהושע"  },
+    ]
+  },
+  {
+    date: "19.5", day: "ג'",
+    stories: [
+      { id: 43, name: "כיבוש העי",                      book: "יהושע"  },
+      { id: 44, name: "תרמית הגבעונים",                 book: "יהושע"  },
+      { id: 45, name: "מלחמת חמשת המלכים",              book: "יהושע"  },
+      { id: 46, name: "כיבוש הצפון",                    book: "יהושע"  },
+      { id: 47, name: "עתניאל בן קנז",                  book: "שופטים" },
+      { id: 48, name: "אהוד בן גרא",                    book: "שופטים" },
+      { id: 49, name: "שמגר בן ענת",                    book: "שופטים" },
+    ]
+  },
+  {
+    date: "20.5", day: "ד'",
+    stories: [
+      { id: 50, name: "דבורה וברק",                     book: "שופטים" },
+      { id: 51, name: "גדעון",                          book: "שופטים" },
+      { id: 52, name: "אבימלך",                         book: "שופטים" },
+      { id: 53, name: "תולע ויאיר",                     book: "שופטים" },
+      { id: 54, name: "יפתח",                           book: "שופטים" },
+      { id: 55, name: "שיבולת ושופטים קטנים",           book: "שופטים" },
+      { id: 56, name: "לידת שמשון",                     book: "שופטים" },
+      { id: 57, name: "שמשון",                          book: "שופטים" },
+    ]
+  },
+];
+
+const STORAGE_KEY = 'hidon_plan_done';
+
+function loadDone() {
+  try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY)) || []); }
+  catch { return new Set(); }
+}
+function saveDone(set) {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify([...set]));
+}
+
+let done = loadDone();
+
+function toggleStory(id) {
+  if (done.has(id)) done.delete(id);
+  else done.add(id);
+  saveDone(done);
+  render();
+}
+
+function resetAll() {
+  if (!confirm('לאפס את כל הסימונים?')) return;
+  done.clear();
+  saveDone(done);
+  render();
+}
+
+function render() {
+  const total = 57;
+  const totalDone = done.size;
+  const pct = Math.round(totalDone / total * 100);
+
+  document.getElementById('totalDoneLabel').textContent = `${totalDone} / ${total} סיפורים`;
+  document.getElementById('totalPctLabel').textContent = `${pct}%`;
+  document.getElementById('totalBar').style.width = pct + '%';
+
+  const container = document.getElementById('days');
+  container.innerHTML = '';
+
+  DAYS.forEach((day, di) => {
+    const dayDone = day.stories.filter(s => done.has(s.id)).length;
+    const dayTotal = day.stories.length;
+    const allDone = dayDone === dayTotal;
+
+    const block = document.createElement('div');
+    block.className = 'day-block';
+
+    const header = document.createElement('div');
+    header.className = 'day-header';
+    header.innerHTML = `
+      <span class="day-title">${day.day} ${day.date}</span>
+      <span class="day-count ${allDone ? 'complete' : ''}">
+        <span class="done">${dayDone}</span> / ${dayTotal}
+        ${allDone ? ' ✓' : ''}
+      </span>
+    `;
+
+    const list = document.createElement('div');
+    list.className = 'story-list';
+    const storageKey = `hidon_plan_collapse_${di}`;
+    if (localStorage.getItem(storageKey) === 'collapsed') list.classList.add('collapsed');
+
+    header.addEventListener('click', () => {
+      list.classList.toggle('collapsed');
+      localStorage.setItem(storageKey, list.classList.contains('collapsed') ? 'collapsed' : 'open');
+    });
+
+    day.stories.forEach(story => {
+      const isDone = done.has(story.id);
+      const row = document.createElement('div');
+      row.className = 'story-row' + (isDone ? ' done' : '');
+      row.innerHTML = `
+        <span class="story-num">${story.id}</span>
+        <div class="checkbox">
+          <svg width="13" height="10" viewBox="0 0 13 10" fill="none">
+            <path d="M1 5l4 4L12 1" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <span class="story-name">${story.name}</span>
+        <span class="story-book">${story.book}</span>
+      `;
+      row.addEventListener('click', () => toggleStory(story.id));
+      list.appendChild(row);
+    });
+
+    block.appendChild(header);
+    block.appendChild(list);
+    container.appendChild(block);
+  });
+}
+
+render();
+</script>
+</body>
+</html>
