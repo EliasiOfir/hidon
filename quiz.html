@@ -186,6 +186,20 @@
   }
   .reset-mastered:hover { border-color: #e05; color: #e05; }
 
+  /* Story picker */
+  #storySection { display: none; margin-bottom: 24px; }
+  .story-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    max-height: 260px;
+    overflow-y: auto;
+    padding-right: 4px;
+  }
+  .story-grid::-webkit-scrollbar { width: 5px; }
+  .story-grid::-webkit-scrollbar-track { background: #0f3460; border-radius: 4px; }
+  .story-grid::-webkit-scrollbar-thumb { background: #f0c040; border-radius: 4px; }
+
   /* Mastered flash on knew-btn */
   @keyframes masterFlash { 0%{background:#1a5c3a} 50%{background:#2a8a56} 100%{background:#1a5c3a} }
   .knew-btn.flash { animation: masterFlash 0.4s ease; }
@@ -321,6 +335,11 @@
     <div class="choice-btn" data-book="all">כל הספרים</div>
   </div>
 
+  <div id="storySection">
+    <div class="section-title">בחר סיפור</div>
+    <div class="story-grid" id="storyGrid"></div>
+  </div>
+
   <div class="section-title">סוג שאלות</div>
   <div class="btn-grid three" id="typeBtns">
     <div class="choice-btn" data-type="story">סיפור</div>
@@ -387,9 +406,79 @@ let questions = [];
 let current = 0;
 let score = 0;
 let selectedBook = null;
+let selectedStory = 'all';
 let selectedType = null;
 let flagged = [];
 let currentFlagged = false;
+
+const STORY_NAMES = {
+  // בראשית
+  'all': 'כל הסיפורים',
+  '01 lech lecha': 'לך לך - מסע אברם',
+  '02 avram and lot': 'פרידת אברם ולוט',
+  '03 war of kings': 'מלחמת המלכים',
+  '04 brit bein habetarim': 'ברית בין הבתרים',
+  '05 hagar and yishmael': 'הגר וישמעאל',
+  '06 brit milah': 'ברית המילה',
+  '07 birth of yitzchak and sodom': 'בשורת לידת יצחק ומשפט סדום',
+  '08 sodom and amorah': 'הפיכת סדום ועמורה',
+  '09 avraham and avimelech': 'אברהם ואבימלך',
+  '10 birth of yitzchak and hagar expelled': 'לידת יצחק וגירוש הגר',
+  '11 akedat yitzchak': 'עקדת יצחק',
+  '12 death of sarah': 'מות שרה ומערת המכפלה',
+  '13 shiduch rivka': 'שידוך רבקה',
+  '14 stolen blessings': 'גניבת הברכות',
+  '15 jacobs dream': 'חלום יעקב בבית אל',
+  '16 yaakov rachel meeting': 'יעקב ורחל - המפגש בבאר',
+  '17 yaakov marriages': 'נישואי יעקב - לאה ורחל',
+  '18 birth of tribes': 'לידות שבטי ישראל',
+  '19 yaakov lavan flock': 'יעקב ולבן - עסקת הצאן',
+  '20 yaakov flees lavan': 'יעקב בורח מלבן',
+  // שמות
+  '01 slavery in egypt': 'שעבוד מצרים',
+  '02 birth of moshe': 'לידת משה ונעוריו',
+  '03 burning bush': 'הסנה הבוער',
+  '04 mission of moshe': 'שליחות משה',
+  '05 moshe and aharon vs pharaoh': 'משה ואהרן מול פרעה',
+  '06 plague of firstborn': 'מכת בכורות',
+  '07 seder night and exodus': 'ליל הסדר ויציאת מצרים',
+  '08 splitting of the sea': 'קריעת ים סוף',
+  '09 the manna': 'המן',
+  '10 masa meriva and amalek': 'מסה ומריבה ומלחמת עמלק',
+  '11 yitro': 'יתרו',
+  '12 har sinai': 'מעמד הר סיני',
+  // במדבר
+  '01 complainers and quail': 'המתאוננים והשליו',
+  '02 miriam and aharon speak against moshe': 'מרים ואהרן מדברים במשה',
+  '03 sin of the spies': 'חטא המרגלים',
+  '04 korach rebellion': 'מחלוקת קורח',
+  '05 mei meriva and deaths': 'מי מריבה ומות מרים ואהרן',
+  '06 copper snake and well song': 'נחש הנחושת ושירת הבאר',
+  // יהושע
+  '01 preparations to enter land': 'הכנות לכניסה לארץ',
+  '02 spies and rachav': 'המרגלים ורחב',
+  '03 crossing the jordan': 'חציית הירדן',
+  '04 conquest of jericho': 'כיבוש יריחו',
+  '05 sin of achan': 'חטא עכן',
+  '06 conquest of ai': 'כיבוש העי',
+  '07 givonite deception': 'ערמת הגבעונים',
+  '08 war of five kings': 'מלחמת חמשת המלכים',
+  '09 conquest of the north': 'כיבוש הצפון',
+  // שופטים
+  '01 otniel ben knaz': 'עתניאל בן קנז',
+  '02 ehud ben gera': 'אהוד בן גרא',
+  '03 shamgar ben anat': 'שמגר בן ענת',
+  '04 devorah and barak': 'דבורה וברק',
+  '05 gideon': 'גדעון',
+  '06 avimelech': 'אבימלך',
+  '07 tolah yair': 'תולע ויאיר',
+  '08 yiftach': 'יפתח',
+  '09 shibboleth and small judges': 'שיבולת ושופטים קטנים',
+  '10 birth of shimshon': 'לידת שמשון',
+  '11 shimshon': 'שמשון',
+  // כללי
+  'cross chapter': 'שאלות חוצות פרקים',
+};
 
 // Mastery — persisted in localStorage
 const MASTERED_KEY = 'hidon_mastered_v1';
@@ -419,9 +508,44 @@ document.querySelectorAll('#bookBtns .choice-btn').forEach(btn => {
     document.querySelectorAll('#bookBtns .choice-btn').forEach(b => b.classList.remove('selected'));
     btn.classList.add('selected');
     selectedBook = btn.dataset.book;
+    selectedStory = 'all';
+    populateStories();
     checkReady();
   });
 });
+
+function populateStories() {
+  const section = document.getElementById('storySection');
+  const grid = document.getElementById('storyGrid');
+  grid.innerHTML = '';
+
+  if (!selectedBook || selectedBook === 'all') {
+    section.style.display = 'none';
+    return;
+  }
+
+  // Collect unique story sources from this book's story questions
+  const bookData = allData[selectedBook];
+  const sources = [...new Set(bookData.story.map(q => q.source))];
+
+  // Build buttons: "כל הסיפורים" first, then each story
+  const allSources = ['all', ...sources];
+  allSources.forEach(src => {
+    const btn = document.createElement('div');
+    btn.className = 'choice-btn' + (src === 'all' ? ' selected' : '');
+    btn.textContent = STORY_NAMES[src] || src;
+    btn.dataset.story = src;
+    btn.addEventListener('click', () => {
+      grid.querySelectorAll('.choice-btn').forEach(b => b.classList.remove('selected'));
+      btn.classList.add('selected');
+      selectedStory = src;
+      checkReady();
+    });
+    grid.appendChild(btn);
+  });
+
+  section.style.display = 'block';
+}
 
 // Type selection
 document.querySelectorAll('#typeBtns .choice-btn').forEach(btn => {
@@ -484,6 +608,11 @@ function startQuiz() {
     if (selectedType === 'story' || selectedType === 'mixed') pool.push(...d.story);
     if (selectedType === 'text'  || selectedType === 'mixed') pool.push(...d.text);
   });
+  // Filter by story if one is selected
+  if (selectedStory && selectedStory !== 'all') {
+    pool = pool.filter(q => q.source === selectedStory);
+  }
+
   if (!includeMastered) {
     const filtered = pool.filter(q => !mastered.has(qKey(q)));
     // Fall back to full pool if everything is mastered
@@ -609,6 +738,8 @@ function sendEmail() {
 function restart() {
   document.getElementById('results').style.display = 'none';
   document.getElementById('setup').style.display = 'block';
+  selectedStory = 'all';
+  populateStories();
 }
 </script>
 </body>
