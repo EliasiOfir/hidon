@@ -163,32 +163,27 @@
 </details>
 
 <details>
-<summary><strong>19. מאיזה פסוק: "הֲיַד יְהוָה תִּקְצָר"?</strong></summary>
-פסוק כ"ג - תשובת ה' למשה כשתהה כיצד יספק בשר לשש מאות אלף איש.
-</details>
-
-<details>
-<summary><strong>20. כיצד תיאר הכתוב את יהושע בן נון בפרק זה?</strong></summary>
+<summary><strong>19. כיצד תיאר הכתוב את יהושע בן נון בפרק זה?</strong></summary>
 "משרת משה מבחוריו" - משרת משה מנעוריו.
 </details>
 
 <details>
-<summary><strong>21. ⭐⭐ מהם חמשת מאכלי מצרים שהעם התגעגע אליהם (לפי הסדר)?</strong></summary>
+<summary><strong>20. ⭐⭐ מהם חמשת מאכלי מצרים שהעם התגעגע אליהם (לפי הסדר)?</strong></summary>
 הדגה, הקישואים, האבטיחים, החציר, הבצלים והשומים (במדבר י"א:ה').
 </details>
 
 <details>
-<summary><strong>22. ⭐⭐⭐ כמה זמן אסף העם את השלו ומתי?</strong></summary>
+<summary><strong>21. ⭐⭐⭐ כמה זמן אסף העם את השלו ומתי?</strong></summary>
 "כל היום ההוא וכל הלילה וכל יום המחרת" - יום שלם, לילה שלם ועוד יום (במדבר י"א:ל"ב).
 </details>
 
 <details>
-<summary><strong>23. ⭐⭐⭐ מה היה טעם המן?</strong></summary>
+<summary><strong>22. ⭐⭐⭐ מה היה טעם המן?</strong></summary>
 "כטעם לשד השמן" (במדבר י"א:ח').
 </details>
 
 <details>
-<summary><strong>24. ⭐⭐⭐ מתי ירד המן ומתי?</strong></summary>
+<summary><strong>23. ⭐⭐⭐ מתי ירד המן ומתי?</strong></summary>
 "וברדת הטל על המחנה לילה ירד המן עליו" - המן ירד בלילה יחד עם הטל (במדבר י"א:ט').
 </details>
 

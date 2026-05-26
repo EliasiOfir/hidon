@@ -160,27 +160,22 @@
 </details>
 
 <details>
-<summary><strong>20. מאיזה פסוק: "וַיַּעַשׂ לוֹ אֵהוּד חֶרֶב וְלָהּ שְׁנֵי פֵיוֹת גֹּמֶד אָרְכָּהּ"?</strong></summary>
-פסוק ט"ז
-</details>
-
-<details>
-<summary><strong>21. ⭐⭐ מה שם העיר שנקראת גם "עיר התמרים"?</strong></summary>
+<summary><strong>20. ⭐⭐ מה שם העיר שנקראת גם "עיר התמרים"?</strong></summary>
 יריחו - נכבשה על ידי עגלון ובעלי בריתו (שופטים ג':י"ג)
 </details>
 
 <details>
-<summary><strong>22. ⭐⭐⭐ מהם שני העמים שהצטרפו לעגלון מלך מואב נגד ישראל?</strong></summary>
+<summary><strong>21. ⭐⭐⭐ מהם שני העמים שהצטרפו לעגלון מלך מואב נגד ישראל?</strong></summary>
 בני עמון ועמלק (שופטים ג':י"ג)
 </details>
 
 <details>
-<summary><strong>23. ⭐⭐⭐ מהי המשמעות של "גומד" - אורך החרב של אהוד?</strong></summary>
+<summary><strong>22. ⭐⭐⭐ מהי המשמעות של "גומד" - אורך החרב של אהוד?</strong></summary>
 יחידת מידה קצרה, כחצי אמה, כ-25 ס"מ (שופטים ג':ט"ז)
 </details>
 
 <details>
-<summary><strong>24. ⭐⭐ לאן נמלט אהוד לאחר רצח עגלון, ומאיפה תקע בשופר?</strong></summary>
+<summary><strong>23. ⭐⭐ לאן נמלט אהוד לאחר רצח עגלון, ומאיפה תקע בשופר?</strong></summary>
 נמלט לשעירה, ותקע בשופר בהר אפרים (שופטים ג':כ"ו-כ"ז)
 </details>
 

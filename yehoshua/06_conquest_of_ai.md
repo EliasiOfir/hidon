@@ -102,7 +102,7 @@
 </details>
 
 <details>
-<summary><strong>12. מה קרא יהושע במעמד?</strong></summary>
+<summary><strong>12. מה קרא יהושע במעמד הר עיבל?</strong></summary>
 את כל דברי התורה, הברכה והקללה
 </details>
 
@@ -112,27 +112,22 @@
 </details>
 
 <details>
-<summary><strong>14. מאיזה פסוק: "נטה בכידון אשר בידך אל העי"?</strong></summary>
-פרק ח פסוק יח
-</details>
-
-<details>
-<summary><strong>15. ⭐⭐ כמה היו כל אנשי העי שנפלו ביום הקרב?</strong></summary>
+<summary><strong>14. ⭐⭐ כמה היו כל אנשי העי שנפלו ביום הקרב?</strong></summary>
 שנים עשר אלף (12,000) - כל אנשי העי, מאיש ועד אשה (פרק ח פסוק כה)
 </details>
 
 <details>
-<summary><strong>16. ⭐⭐⭐ בין אילו שני מקומות הוצב המארב?</strong></summary>
+<summary><strong>15. ⭐⭐⭐ בין אילו שני מקומות הוצב המארב?</strong></summary>
 בין בית אל ובין העי, מאחורי העיר
 </details>
 
 <details>
-<summary><strong>17. ⭐⭐ מה עשה יהושע עם גופת מלך העי בערב?</strong></summary>
+<summary><strong>16. ⭐⭐ מה עשה יהושע עם גופת מלך העי בערב?</strong></summary>
 הורידו מהעץ בערב (כפי שמצווה התורה)
 </details>
 
 <details>
-<summary><strong>18. ⭐⭐⭐ מהם שני המספרים השונים המופיעים בפרק לגבי גודל המארב?</strong></summary>
+<summary><strong>17. ⭐⭐⭐ מהם שני המספרים השונים המופיעים בפרק לגבי גודל המארב?</strong></summary>
 30,000 איש (פסוק ג) ו-5,000 איש (פסוק יב)
 </details>
 

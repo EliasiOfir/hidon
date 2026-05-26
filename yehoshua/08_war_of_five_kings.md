@@ -137,27 +137,22 @@
 </details>
 
 <details>
-<summary><strong>17. מאיזה פסוק: "שמש בגבעון דום וירח בעמק אילון"?</strong></summary>
-פרק י פסוקים יב-יג
-</details>
-
-<details>
-<summary><strong>18. ⭐⭐ מה שם מלך ירושלים שהנהיג את הקואליציה?</strong></summary>
+<summary><strong>17. ⭐⭐ מה שם מלך ירושלים שהנהיג את הקואליציה?</strong></summary>
 אדוני צדק
 </details>
 
 <details>
-<summary><strong>19. ⭐⭐⭐ מהם שמות חמשת המלכים ועריהם? (כולם)</strong></summary>
+<summary><strong>18. ⭐⭐⭐ מהם שמות חמשת המלכים ועריהם? (כולם)</strong></summary>
 אדוני צדק מלך ירושלים, הוהם מלך חברון, פראם מלך ירמות, יפיע מלך לכיש, ודביר מלך עגלון
 </details>
 
 <details>
-<summary><strong>20. ⭐⭐ מדוע גבעון מתוארת כעיר חשובה במיוחד?</strong></summary>
+<summary><strong>19. ⭐⭐ מדוע גבעון מתוארת כעיר חשובה במיוחד?</strong></summary>
 "כי גבעון עיר גדולה כאחת ערי הממלכה" ואנשיה גיבורים
 </details>
 
 <details>
-<summary><strong>21. ⭐⭐⭐ אילו שש ערים כבש יהושע במסע הדרום?</strong></summary>
+<summary><strong>20. ⭐⭐⭐ אילו שש ערים כבש יהושע במסע הדרום?</strong></summary>
 מקדה, לבנה, לכיש, עגלון, חברון, דביר
 </details>
 
